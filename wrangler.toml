@@ -1,1 +1,13 @@
+name = "telegram-quiz-worker"
+main = "worker.js"
+compatibility_date = "2025-09-29"
+
+[triggers]
+# 04:30 UTC = 10:00 IST
+crons = ["30 4 * * *"]
+
+[vars]
+# Raw URL base for the questions folder in this repo:
+GITHUB_RAW_BASE = "https://raw.githubusercontent.com/AkashChaudhary7/EO_BOT/main/questions/"
+CHAPTERS = "chapter1"
 
