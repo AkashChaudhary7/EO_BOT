@@ -1,0 +1,502 @@
+[
+  {
+    "id": "q1",
+    "question": "Under Section 51 of the Rajasthan Municipalities Act, 2009, the Chairperson of a municipality is elected by:",
+    "options": [
+      { "text": "The elected Councillors from among themselves", "correct": true, "info": "Correct! Section 51 provides for election by Councillors." },
+      { "text": "Direct public vote", "correct": false, "info": "Incorrect. Direct election is not specified." },
+      { "text": "State Government nomination", "correct": false, "info": "Incorrect. No nomination power." },
+      { "text": "District Collector", "correct": false, "info": "Incorrect. Not involved in election." }
+    ]
+  },
+  {
+    "id": "q2",
+    "question": "Section 51(2) specifies that the election of the Chairperson must be held within:",
+    "options": [
+      { "text": "30 days of the first meeting", "correct": true, "info": "Correct! Time-bound election process." },
+      { "text": "60 days", "correct": false, "info": "Incorrect." },
+      { "text": "15 days", "correct": false, "info": "Incorrect." },
+      { "text": "No time limit", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q3",
+    "question": "Under Section 52, the Deputy Chairperson is responsible for presiding over meetings in the absence of:",
+    "options": [
+      { "text": "The Chairperson", "correct": true, "info": "Correct! Acts as substitute." },
+      { "text": "The Municipal Commissioner", "correct": false, "info": "Incorrect. Not a presiding officer." },
+      { "text": "The Ward Committee head", "correct": false, "info": "Incorrect." },
+      { "text": "Any Councillor", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q4",
+    "question": "Section 53 allows the Chairperson to resign by submitting a resignation to:",
+    "options": [
+      { "text": "The State Government", "correct": true, "info": "Correct! Resignation addressed to State Government." },
+      { "text": "The Deputy Chairperson", "correct": false, "info": "Incorrect." },
+      { "text": "The Municipal Board", "correct": false, "info": "Incorrect." },
+      { "text": "The District Judge", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q5",
+    "question": "Under Section 53(2), the resignation of the Chairperson takes effect:",
+    "options": [
+      { "text": "Upon acceptance by the State Government", "correct": true, "info": "Correct! Requires formal acceptance." },
+      { "text": "Immediately upon submission", "correct": false, "info": "Incorrect." },
+      { "text": "After 15 days", "correct": false, "info": "Incorrect." },
+      { "text": "After municipal vote", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q6",
+    "question": "Section 54 provides for a no-confidence motion against the Chairperson, requiring support of:",
+    "options": [
+      { "text": "Two-thirds of elected Councillors", "correct": true, "info": "Correct! Specific majority required." },
+      { "text": "Simple majority", "correct": false, "info": "Incorrect." },
+      { "text": "All Councillors", "correct": false, "info": "Incorrect." },
+      { "text": "State Government approval", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q7",
+    "question": "As per Section 54(3), a no-confidence motion cannot be moved within:",
+    "options": [
+      { "text": "First two years of Chairperson’s term", "correct": true, "info": "Correct! Cooling-off period." },
+      { "text": "First six months", "correct": false, "info": "Incorrect." },
+      { "text": "First one year", "correct": false, "info": "Incorrect." },
+      { "text": "No restriction", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q8",
+    "question": "Section 55 mandates that meetings of the municipality be held at least:",
+    "options": [
+      { "text": "Once every two months", "correct": true, "info": "Correct! Minimum frequency specified." },
+      { "text": "Once a month", "correct": false, "info": "Incorrect." },
+      { "text": "Once a year", "correct": false, "info": "Incorrect." },
+      { "text": "No fixed frequency", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q9",
+    "question": "Under Section 55(2), the quorum for a municipal meeting requires the presence of:",
+    "options": [
+      { "text": "One-third of total Councillors", "correct": true, "info": "Correct! Quorum requirement." },
+      { "text": "Half of total Councillors", "correct": false, "info": "Incorrect." },
+      { "text": "All Councillors", "correct": false, "info": "Incorrect." },
+      { "text": "Two-thirds of Councillors", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q10",
+    "question": "Section 56 allows the State Government to dissolve a municipality for:",
+    "options": [
+      { "text": "Persistent failure to perform duties", "correct": true, "info": "Correct! Ground for dissolution." },
+      { "text": "Councillor resignations", "correct": false, "info": "Incorrect." },
+      { "text": "Public demand", "correct": false, "info": "Incorrect." },
+      { "text": "No specific grounds", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q11",
+    "question": "Under Section 56(2), dissolution of a municipality takes effect from:",
+    "options": [
+      { "text": "Date specified in the notification", "correct": true, "info": "Correct! Notification specifies date." },
+      { "text": "Immediate effect", "correct": false, "info": "Incorrect." },
+      { "text": "After 30 days", "correct": false, "info": "Incorrect." },
+      { "text": "After new elections", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q12",
+    "question": "Section 57 requires the State Government to appoint an Administrator upon dissolution for a period not exceeding:",
+    "options": [
+      { "text": "Six months", "correct": true, "info": "Correct! Temporary administration." },
+      { "text": "One year", "correct": false, "info": "Incorrect." },
+      { "text": "Three months", "correct": false, "info": "Incorrect." },
+      { "text": "No time limit", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q13",
+    "question": "Under Section 58, the Administrator appointed after dissolution has the powers of:",
+    "options": [
+      { "text": "The municipality and its committees", "correct": true, "info": "Correct! Full administrative powers." },
+      { "text": "Only financial powers", "correct": false, "info": "Incorrect." },
+      { "text": "Only election powers", "correct": false, "info": "Incorrect." },
+      { "text": "No powers", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q14",
+    "question": "Section 59 mandates that elections after dissolution must be held within:",
+    "options": [
+      { "text": "Six months of dissolution", "correct": true, "info": "Correct! Time-bound elections." },
+      { "text": "One year", "correct": false, "info": "Incorrect." },
+      { "text": "Three months", "correct": false, "info": "Incorrect." },
+      { "text": "No time limit", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q15",
+    "question": "Under Section 60, the municipality’s bye-laws are framed by:",
+    "options": [
+      { "text": "The municipality with State Government approval", "correct": true, "info": "Correct! Requires approval." },
+      { "text": "State Government alone", "correct": false, "info": "Incorrect." },
+      { "text": "Municipal Commissioner", "correct": false, "info": "Incorrect." },
+      { "text": "Ward Committees", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q16",
+    "question": "Section 60(2) requires bye-laws to be published in:",
+    "options": [
+      { "text": "The Official Gazette", "correct": true, "info": "Correct! Mandatory publication." },
+      { "text": "Local newspapers only", "correct": false, "info": "Incorrect." },
+      { "text": "Municipal website only", "correct": false, "info": "Incorrect." },
+      { "text": "No publication required", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q17",
+    "question": "Under Section 61, the State Government may cancel a bye-law if it is:",
+    "options": [
+      { "text": "Inconsistent with the Act or other laws", "correct": true, "info": "Correct! Legal consistency required." },
+      { "text": "Unpopular with residents", "correct": false, "info": "Incorrect." },
+      { "text": "Financially burdensome", "correct": false, "info": "Incorrect." },
+      { "text": "No cancellation allowed", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q18",
+    "question": "Section 62 empowers the municipality to appoint which key officer?",
+    "options": [
+      { "text": "Municipal Commissioner", "correct": true, "info": "Correct! Chief executive officer." },
+      { "text": "State Election Commissioner", "correct": false, "info": "Incorrect." },
+      { "text": "District Collector", "correct": false, "info": "Incorrect." },
+      { "text": "Returning Officer", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q19",
+    "question": "Under Section 62(2), the Municipal Commissioner’s appointment is subject to approval by:",
+    "options": [
+      { "text": "The State Government", "correct": true, "info": "Correct! State oversight." },
+      { "text": "The municipality alone", "correct": false, "info": "Incorrect." },
+      { "text": "The Ward Committee", "correct": false, "info": "Incorrect." },
+      { "text": "No approval needed", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q20",
+    "question": "Section 63 defines the duties of the Municipal Commissioner, which include:",
+    "options": [
+      { "text": "Executing municipal resolutions", "correct": true, "info": "Correct! Administrative role." },
+      { "text": "Conducting elections", "correct": false, "info": "Incorrect." },
+      { "text": "Framing bye-laws", "correct": false, "info": "Incorrect." },
+      { "text": "Presiding over meetings", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q21",
+    "question": "Under Section 64, the municipality may delegate its powers to:",
+    "options": [
+      { "text": "Committees or officers", "correct": true, "info": "Correct! Delegation allowed." },
+      { "text": "State Government", "correct": false, "info": "Incorrect." },
+      { "text": "Public representatives", "correct": false, "info": "Incorrect." },
+      { "text": "No delegation allowed", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q22",
+    "question": "Section 65 requires the municipality to maintain records of:",
+    "options": [
+      { "text": "All meetings and resolutions", "correct": true, "info": "Correct! Mandatory record-keeping." },
+      { "text": "Only financial transactions", "correct": false, "info": "Incorrect." },
+      { "text": "Election results", "correct": false, "info": "Incorrect." },
+      { "text": "No records required", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q23",
+    "question": "Under Section 65(2), the records of municipal proceedings are open to inspection by:",
+    "options": [
+      { "text": "Any resident on payment of a fee", "correct": true, "info": "Correct! Public access with fee." },
+      { "text": "Only Councillors", "correct": false, "info": "Incorrect." },
+      { "text": "State Government only", "correct": false, "info": "Incorrect." },
+      { "text": "No inspection allowed", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q24",
+    "question": "Section 66 empowers the State Government to inspect municipal records and issue directions for:",
+    "options": [
+      { "text": "Compliance with the Act", "correct": true, "info": "Correct! Oversight power." },
+      { "text": "Election scheduling", "correct": false, "info": "Incorrect." },
+      { "text": "Staff appointments", "correct": false, "info": "Incorrect." },
+      { "text": "No directions allowed", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q25",
+    "question": "Under Section 51(3), the election of the Chairperson is conducted by:",
+    "options": [
+      { "text": "An officer appointed by the State Election Commission", "correct": true, "info": "Correct!" },
+      { "text": "The Municipal Commissioner", "correct": false, "info": "Incorrect." },
+      { "text": "The Deputy Chairperson", "correct": false, "info": "Incorrect." },
+      { "text": "The District Collector", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q26",
+    "question": "Section 52(2) allows the Deputy Chairperson to be removed by:",
+    "options": [
+      { "text": "A resolution of the municipality", "correct": true, "info": "Correct! Similar to Chairperson." },
+      { "text": "State Government order", "correct": false, "info": "Incorrect." },
+      { "text": "Public petition", "correct": false, "info": "Incorrect." },
+      { "text": "No removal process", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q27",
+    "question": "Under Section 53(3), if the Chairperson’s resignation is not accepted within 30 days, it is deemed:",
+    "options": [
+      { "text": "Accepted", "correct": true, "info": "Correct! Automatic acceptance." },
+      { "text": "Rejected", "correct": false, "info": "Incorrect." },
+      { "text": "Pending indefinitely", "correct": false, "info": "Incorrect." },
+      { "text": "Referred to court", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q28",
+    "question": "Section 54(4) prohibits a second no-confidence motion within:",
+    "options": [
+      { "text": "One year of the first motion", "correct": true, "info": "Correct! Restriction on frequency." },
+      { "text": "Six months", "correct": false, "info": "Incorrect." },
+      { "text": "Two years", "correct": false, "info": "Incorrect." },
+      { "text": "No restriction", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q29",
+    "question": "Under Section 55(3), if a meeting lacks quorum, it is adjourned to:",
+    "options": [
+      { "text": "A date fixed by the Chairperson", "correct": true, "info": "Correct!" },
+      { "text": "Next month", "correct": false, "info": "Incorrect." },
+      { "text": "No adjournment allowed", "correct": false, "info": "Incorrect." },
+      { "text": "State Government decision", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q30",
+    "question": "Section 56(3) requires the State Government to give the municipality an opportunity to show cause before:",
+    "options": [
+      { "text": "Dissolution", "correct": true, "info": "Correct! Due process required." },
+      { "text": "Elections", "correct": false, "info": "Incorrect." },
+      { "text": "Bye-law cancellation", "correct": false, "info": "Incorrect." },
+      { "text": "No opportunity required", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q31",
+    "question": "Under Section 57(2), the Administrator’s term may be extended by the State Government up to:",
+    "options": [
+      { "text": "One year in exceptional cases", "correct": true, "info": "Correct!" },
+      { "text": "Six months", "correct": false, "info": "Incorrect." },
+      { "text": "Two years", "correct": false, "info": "Incorrect." },
+      { "text": "No extension allowed", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q32",
+    "question": "Section 58(2) limits the Administrator’s powers to exclude:",
+    "options": [
+      { "text": "Framing new bye-laws", "correct": true, "info": "Correct! Restricted to existing bye-laws." },
+      { "text": "Executing resolutions", "correct": false, "info": "Incorrect." },
+      { "text": "Financial decisions", "correct": false, "info": "Incorrect." },
+      { "text": "All municipal powers", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q33",
+    "question": "Under Section 59(2), if elections are not held within six months, the Administrator’s term:",
+    "options": [
+      { "text": "May be extended by notification", "correct": true, "info": "Correct!" },
+      { "text": "Ends automatically", "correct": false, "info": "Incorrect." },
+      { "text": "Requires court approval", "correct": false, "info": "Incorrect." },
+      { "text": "No extension allowed", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q34",
+    "question": "Section 60(3) requires bye-laws to be consistent with:",
+    "options": [
+      { "text": "The Constitution and other laws", "correct": true, "info": "Correct!" },
+      { "text": "Municipal resolutions only", "correct": false, "info": "Incorrect." },
+      { "text": "State Government policies", "correct": false, "info": "Incorrect." },
+      { "text": "No consistency required", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q35",
+    "question": "Under Section 61(2), cancellation of a bye-law takes effect from:",
+    "options": [
+      { "text": "Date of notification in Gazette", "correct": true, "info": "Correct!" },
+      { "text": "Date of municipal resolution", "correct": false, "info": "Incorrect." },
+      { "text": "Immediate effect", "correct": false, "info": "Incorrect." },
+      { "text": "No cancellation possible", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q36",
+    "question": "Section 62(3) allows the Municipal Commissioner to be removed by:",
+    "options": [
+      { "text": "State Government after inquiry", "correct": true, "info": "Correct!" },
+      { "text": "Municipal resolution", "correct": false, "info": "Incorrect." },
+      { "text": "Public petition", "correct": false, "info": "Incorrect." },
+      { "text": "No removal possible", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q37",
+    "question": "Under Section 63(2), the Municipal Commissioner must report to the municipality on:",
+    "options": [
+      { "text": "All administrative actions", "correct": true, "info": "Correct!" },
+      { "text": "Only financial matters", "correct": false, "info": "Incorrect." },
+      { "text": "Election processes", "correct": false, "info": "Incorrect." },
+      { "text": "No reporting required", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q38",
+    "question": "Section 64(2) prohibits delegation of which power to committees?",
+    "options": [
+      { "text": "Power to frame bye-laws", "correct": true, "info": "Correct! Non-delegable power." },
+      { "text": "Financial approvals", "correct": false, "info": "Incorrect." },
+      { "text": "Staff appointments", "correct": false, "info": "Incorrect." },
+      { "text": "All powers delegable", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q39",
+    "question": "Under Section 65(3), copies of municipal records can be obtained by residents on payment of:",
+    "options": [
+      { "text": "Prescribed fee", "correct": true, "info": "Correct!" },
+      { "text": "No fee", "correct": false, "info": "Incorrect." },
+      { "text": "Court order", "correct": false, "info": "Incorrect." },
+      { "text": "Municipal approval", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q40",
+    "question": "Section 66(2) allows the State Government to issue directions to municipalities for:",
+    "options": [
+      { "text": "Ensuring public safety and convenience", "correct": true, "info": "Correct!" },
+      { "text": "Election scheduling", "correct": false, "info": "Incorrect." },
+      { "text": "Staff promotions", "correct": false, "info": "Incorrect." },
+      { "text": "No directions allowed", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q41",
+    "question": "Under Section 51(4), if no Chairperson is elected within the stipulated time, the State Government may:",
+    "options": [
+      { "text": "Appoint an interim Chairperson", "correct": true, "info": "Correct!" },
+      { "text": "Dissolve the municipality", "correct": false, "info": "Incorrect." },
+      { "text": "Extend the election period", "correct": false, "info": "Incorrect." },
+      { "text": "No action allowed", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q42",
+    "question": "Section 52(3) requires the Deputy Chairperson to be elected simultaneously with:",
+    "options": [
+      { "text": "The Chairperson", "correct": true, "info": "Correct!" },
+      { "text": "Ward Committees", "correct": false, "info": "Incorrect." },
+      { "text": "Municipal Commissioner", "correct": false, "info": "Incorrect." },
+      { "text": "No simultaneous election", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q43",
+    "question": "Under Section 53(4), the resignation of the Deputy Chairperson is addressed to:",
+    "options": [
+      { "text": "The Chairperson", "correct": true, "info": "Correct!" },
+      { "text": "The State Government", "correct": false, "info": "Incorrect." },
+      { "text": "The Municipal Commissioner", "correct": false, "info": "Incorrect." },
+      { "text": "The District Collector", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q44",
+    "question": "Section 54(5) requires a no-confidence motion to be moved in a meeting presided over by:",
+    "options": [
+      { "text": "An officer appointed by the State Government", "correct": true, "info": "Correct!" },
+      { "text": "The Chairperson", "correct": false, "info": "Incorrect." },
+      { "text": "The Deputy Chairperson", "correct": false, "info": "Incorrect." },
+      { "text": "Any Councillor", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q45",
+    "question": "Under Section 55(4), urgent meetings can be called by the Chairperson with a notice period of:",
+    "options": [
+      { "text": "Three days", "correct": true, "info": "Correct!" },
+      { "text": "Seven days", "correct": false, "info": "Incorrect." },
+      { "text": "One day", "correct": false, "info": "Incorrect." },
+      { "text": "No notice required", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q46",
+    "question": "Section 56(4) mandates that dissolution of a municipality be published in:",
+    "options": [
+      { "text": "The Official Gazette", "correct": true, "info": "Correct!" },
+      { "text": "Local newspapers only", "correct": false, "info": "Incorrect." },
+      { "text": "Municipal website", "correct": false, "info": "Incorrect." },
+      { "text": "No publication required", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q47",
+    "question": "Under Section 57(3), the Administrator must submit reports to:",
+    "options": [
+      { "text": "The State Government", "correct": true, "info": "Correct!" },
+      { "text": "The municipality", "correct": false, "info": "Incorrect." },
+      { "text": "The Ward Committee", "correct": false, "info": "Incorrect." },
+      { "text": "No reporting required", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q48",
+    "question": "Section 58(3) prohibits the Administrator from taking decisions that:",
+    "options": [
+      { "text": "Bind the municipality beyond its term", "correct": true, "info": "Correct!" },
+      { "text": "Involve routine administration", "correct": false, "info": "Incorrect." },
+      { "text": "Are financial only", "correct": false, "info": "Incorrect." },
+      { "text": "No restrictions", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q49",
+    "question": "Under Section 60(4), bye-laws come into force after:",
+    "options": [
+      { "text": "30 days of publication in Gazette", "correct": true, "info": "Correct!" },
+      { "text": "Immediate effect", "correct": false, "info": "Incorrect." },
+      { "text": "Municipal approval", "correct": false, "info": "Incorrect." },
+      { "text": "No fixed time", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q50",
+    "question": "Section 66(3) requires municipalities to comply with State Government directions within:",
+    "options": [
+      { "text": "A specified reasonable time", "correct": true, "info": "Correct!" },
+      { "text": "30 days", "correct": false, "info": "Incorrect." },
+      { "text": "No time limit", "correct": false, "info": "Incorrect." },
+      { "text": "Immediate compliance", "correct": false, "info": "Incorrect." }
+    ]
+  }
+]
