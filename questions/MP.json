@@ -1,0 +1,302 @@
+[
+  {
+    "id": "q1",
+    "question": "Under Section 67 of the Rajasthan Municipalities Act, 2009, the primary functions of a municipality include:",
+    "options": [
+      { "text": "Public health, sanitation, and water supply", "correct": true, "info": "Correct! Section 67 lists core municipal duties." },
+      { "text": "Conducting state elections", "correct": false, "info": "Incorrect. Elections are under State Election Commission." },
+      { "text": "Judicial administration", "correct": false, "info": "Incorrect. Not a municipal function." },
+      { "text": "Agricultural development", "correct": false, "info": "Incorrect. Not within municipal scope." }
+    ]
+  },
+  {
+    "id": "q2",
+    "question": "Section 67(2) mandates municipalities to prepare plans for:",
+    "options": [
+      { "text": "Economic development and social justice", "correct": true, "info": "Correct! As per constitutional mandate." },
+      { "text": "State-level infrastructure", "correct": false, "info": "Incorrect." },
+      { "text": "Only financial budgeting", "correct": false, "info": "Incorrect." },
+      { "text": "No planning required", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q3",
+    "question": "Under Section 68, municipalities have the power to impose which tax?",
+    "options": [
+      { "text": "Property tax within its jurisdiction", "correct": true, "info": "Correct! Key revenue source." },
+      { "text": "Income tax", "correct": false, "info": "Incorrect. Central government power." },
+      { "text": "Sales tax", "correct": false, "info": "Incorrect. State government power." },
+      { "text": "Customs duty", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q4",
+    "question": "Section 68(2) requires the imposition of taxes to be approved by:",
+    "options": [
+      { "text": "The State Government", "correct": true, "info": "Correct! Oversight required." },
+      { "text": "The Municipal Commissioner alone", "correct": false, "info": "Incorrect." },
+      { "text": "The Ward Committee", "correct": false, "info": "Incorrect." },
+      { "text": "No approval needed", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q5",
+    "question": "Under Section 69, municipalities may levy fees for:",
+    "options": [
+      { "text": "Licenses and permits", "correct": true, "info": "Correct! Such as building permits." },
+      { "text": "Voter registration", "correct": false, "info": "Incorrect." },
+      { "text": "Election campaigns", "correct": false, "info": "Incorrect." },
+      { "text": "Court services", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q6",
+    "question": "Section 70 provides for the constitution of a Municipal Fund to be used for:",
+    "options": [
+      { "text": "Municipal functions and obligations", "correct": true, "info": "Correct! Funds for municipal duties." },
+      { "text": "State government projects", "correct": false, "info": "Incorrect." },
+      { "text": "Election funding", "correct": false, "info": "Incorrect." },
+      { "text": "Private investments", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q7",
+    "question": "Under Section 70(2), the Municipal Fund includes:",
+    "options": [
+      { "text": "Taxes, grants, and fines", "correct": true, "info": "Correct! All revenue sources." },
+      { "text": "Only state grants", "correct": false, "info": "Incorrect." },
+      { "text": "Only property tax", "correct": false, "info": "Incorrect." },
+      { "text": "Donations only", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q8",
+    "question": "Section 71 restricts the expenditure from the Municipal Fund to:",
+    "options": [
+      { "text": "Purposes specified in the Act", "correct": true, "info": "Correct! Legal expenditure only." },
+      { "text": "Any purpose", "correct": false, "info": "Incorrect." },
+      { "text": "Election expenses", "correct": false, "info": "Incorrect." },
+      { "text": "Councillor salaries only", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q9",
+    "question": "Under Section 71(2), expenditure from the Municipal Fund requires approval of:",
+    "options": [
+      { "text": "The municipality or its delegated authority", "correct": true, "info": "Correct!" },
+      { "text": "The State Election Commission", "correct": false, "info": "Incorrect." },
+      { "text": "The District Collector", "correct": false, "info": "Incorrect." },
+      { "text": "No approval needed", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q10",
+    "question": "Section 72 mandates the municipality to maintain accounts in the form prescribed by:",
+    "options": [
+      { "text": "The State Government", "correct": true, "info": "Correct! Prescribed format." },
+      { "text": "The Municipal Commissioner", "correct": false, "info": "Incorrect." },
+      { "text": "The Ward Committee", "correct": false, "info": "Incorrect." },
+      { "text": "No specific format", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q11",
+    "question": "Under Section 72(2), the municipal accounts must be audited by:",
+    "options": [
+      { "text": "An auditor appointed by the State Government", "correct": true, "info": "Correct!" },
+      { "text": "The Municipal Commissioner", "correct": false, "info": "Incorrect." },
+      { "text": "A private firm", "correct": false, "info": "Incorrect." },
+      { "text": "No audit required", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q12",
+    "question": "Section 73 requires the municipality to submit an annual report to:",
+    "options": [
+      { "text": "The State Government", "correct": true, "info": "Correct! Reporting obligation." },
+      { "text": "The public", "correct": false, "info": "Incorrect." },
+      { "text": "The Ward Committee", "correct": false, "info": "Incorrect." },
+      { "text": "No report required", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q13",
+    "question": "Under Section 73(2), the annual report must include details of:",
+    "options": [
+      { "text": "Municipal activities and finances", "correct": true, "info": "Correct!" },
+      { "text": "Only election results", "correct": false, "info": "Incorrect." },
+      { "text": "Staff appointments", "correct": false, "info": "Incorrect." },
+      { "text": "No specific details", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q14",
+    "question": "Section 74 empowers the State Government to recover dues from a municipality by:",
+    "options": [
+      { "text": "Deducting from grants", "correct": true, "info": "Correct! Recovery mechanism." },
+      { "text": "Dissolving the municipality", "correct": false, "info": "Incorrect." },
+      { "text": "Imposing fines", "correct": false, "info": "Incorrect." },
+      { "text": "No recovery possible", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q15",
+    "question": "Under Section 74(2), recovery of dues is treated as:",
+    "options": [
+      { "text": "Arrears of land revenue", "correct": true, "info": "Correct!" },
+      { "text": "Civil debt", "correct": false, "info": "Incorrect." },
+      { "text": "Municipal tax", "correct": false, "info": "Incorrect." },
+      { "text": "No specific treatment", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q16",
+    "question": "Section 75 allows the State Government to make rules for:",
+    "options": [
+      { "text": "Municipal functions and finances", "correct": true, "info": "Correct! Rule-making power." },
+      { "text": "Election procedures", "correct": false, "info": "Incorrect." },
+      { "text": "Judicial processes", "correct": false, "info": "Incorrect." },
+      { "text": "No rule-making power", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q17",
+    "question": "Under Section 67(3), municipalities must ensure maintenance of:",
+    "options": [
+      { "text": "Public streets and drainage", "correct": true, "info": "Correct!" },
+      { "text": "State highways", "correct": false, "info": "Incorrect." },
+      { "text": "Private properties", "correct": false, "info": "Incorrect." },
+      { "text": "No maintenance required", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q18",
+    "question": "Section 68(3) prohibits municipalities from imposing taxes without:",
+    "options": [
+      { "text": "Public consultation and State approval", "correct": true, "info": "Correct!" },
+      { "text": "Only public consultation", "correct": false, "info": "Incorrect." },
+      { "text": "Only State approval", "correct": false, "info": "Incorrect." },
+      { "text": "No restrictions", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q19",
+    "question": "Under Section 69(2), fees for licenses must be fixed by:",
+    "options": [
+      { "text": "Municipal resolution", "correct": true, "info": "Correct!" },
+      { "text": "State Government", "correct": false, "info": "Incorrect." },
+      { "text": "Municipal Commissioner", "correct": false, "info": "Incorrect." },
+      { "text": "No fixing required", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q20",
+    "question": "Section 70(3) requires the Municipal Fund to be kept in:",
+    "options": [
+      { "text": "A scheduled bank or treasury", "correct": true, "info": "Correct!" },
+      { "text": "Private bank", "correct": false, "info": "Incorrect." },
+      { "text": "Municipal office", "correct": false, "info": "Incorrect." },
+      { "text": "No specific place", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q21",
+    "question": "Under Section 71(3), unauthorized expenditure from the Municipal Fund is recoverable from:",
+    "options": [
+      { "text": "The person authorizing it", "correct": true, "info": "Correct!" },
+      { "text": "The State Government", "correct": false, "info": "Incorrect." },
+      { "text": "The public", "correct": false, "info": "Incorrect." },
+      { "text": "No recovery possible", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q22",
+    "question": "Section 72(3) mandates that municipal accounts be audited at least:",
+    "options": [
+      { "text": "Once a year", "correct": true, "info": "Correct!" },
+      { "text": "Every six months", "correct": false, "info": "Incorrect." },
+      { "text": "Every two years", "correct": false, "info": "Incorrect." },
+      { "text": "No audit required", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q23",
+    "question": "Under Section 73(3), the annual report must be submitted within:",
+    "options": [
+      { "text": "Three months of financial year-end", "correct": true, "info": "Correct!" },
+      { "text": "Six months", "correct": false, "info": "Incorrect." },
+      { "text": "One year", "correct": false, "info": "Incorrect." },
+      { "text": "No time limit", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q24",
+    "question": "Section 74(3) allows the State Government to appoint an officer to:",
+    "options": [
+      { "text": "Recover dues from municipalities", "correct": true, "info": "Correct!" },
+      { "text": "Conduct elections", "correct": false, "info": "Incorrect." },
+      { "text": "Frame bye-laws", "correct": false, "info": "Incorrect." },
+      { "text": "No officer appointment", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q25",
+    "question": "Under Section 75(2), rules made by the State Government must be published in:",
+    "options": [
+      { "text": "The Official Gazette", "correct": true, "info": "Correct!" },
+      { "text": "Local newspapers", "correct": false, "info": "Incorrect." },
+      { "text": "Municipal website", "correct": false, "info": "Incorrect." },
+      { "text": "No publication required", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q26",
+    "question": "Section 67(4) empowers municipalities to undertake which additional function?",
+    "options": [
+      { "text": "Urban planning including town planning", "correct": true, "info": "Correct!" },
+      { "text": "State-level policy making", "correct": false, "info": "Incorrect." },
+      { "text": "Judicial dispute resolution", "correct": false, "info": "Incorrect." },
+      { "text": "No additional functions", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q27",
+    "question": "Under Section 68(4), the procedure for tax collection is prescribed by:",
+    "options": [
+      { "text": "Municipal bye-laws", "correct": true, "info": "Correct!" },
+      { "text": "State Government alone", "correct": false, "info": "Incorrect." },
+      { "text": "Municipal Commissioner", "correct": false, "info": "Incorrect." },
+      { "text": "No procedure prescribed", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q28",
+    "question": "Section 69(3) requires fees to be reasonable and approved by:",
+    "options": [
+      { "text": "The State Government", "correct": true, "info": "Correct!" },
+      { "text": "The municipality alone", "correct": false, "info": "Incorrect." },
+      { "text": "The public", "correct": false, "info": "Incorrect." },
+      { "text": "No approval needed", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q29",
+    "question": "Under Section 70(4), the Municipal Fund can be used for emergency measures like:",
+    "options": [
+      { "text": "Disaster relief within municipal limits", "correct": true, "info": "Correct!" },
+      { "text": "State-level emergencies", "correct": false, "info": "Incorrect." },
+      { "text": "Election expenses", "correct": false, "info": "Incorrect." },
+      { "text": "No emergency measures", "correct": false, "info": "Incorrect." }
+    ]
+  },
+  {
+    "id": "q30",
+    "question": "Section 71(4) prohibits expenditure from the Municipal Fund for:",
+    "options": [
+      { "text": "Purposes not authorized by the Act", "correct": true, "info": "Correct!" },
+      { "text": "Routine maintenance", "correct": false, "info": "Incorrect." },
+      { "text": "Public health measures", "correct": false, "info": "Incorrect." },
+      { "text": "All expenditures allowed", "correct": false, "info": "Incorrect." }
+    ]
+  }
+]
