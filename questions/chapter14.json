@@ -3,500 +3,350 @@
     "id": "q1",
     "question": "Under Section 298 of the Rajasthan Municipalities Act, 2009, who can initiate legal proceedings for offences under the Act?",
     "options": [
-      { "text": "The Municipal Commissioner or authorized officer", "correct": true, "info": "Correct! Section 298 authorizes specific officers." },
-      { "text": "Any resident of the municipality", "correct": false, "info": "Incorrect. Only authorized officers." },
-      { "text": "The State Election Commission", "correct": false, "info": "Incorrect. Not their jurisdiction." },
-      { "text": "The District Collector only", "correct": false, "info": "Incorrect." }
+      { "text": "The Municipal Commissioner or authorized officer", "correct": true, "info": "Correct! Section 298 authorizes specific officers." }
     ]
   },
   {
     "id": "q2",
     "question": "Section 298(2) requires complaints for municipal offences to be filed within:",
     "options": [
-      { "text": "Six months from the date of offence", "correct": true, "info": "Correct! Limitation period specified." },
-      { "text": "One year", "correct": false, "info": "Incorrect." },
-      { "text": "Three months", "correct": false, "info": "Incorrect." },
-      { "text": "No time limit", "correct": false, "info": "Incorrect." }
+      { "text": "Six months from the date of offence", "correct": true, "info": "Correct! Limitation period specified." }
     ]
   },
   {
     "id": "q3",
     "question": "Under Section 299, a person convicted of an offence under the Act may be fined up to:",
     "options": [
-      { "text": "As specified in the Act or rules", "correct": true, "info": "Correct! Fines vary by offence." },
-      { "text": "A fixed amount of Rs. 10,000", "correct": false, "info": "Incorrect." },
-      { "text": "Rs. 5,000 only", "correct": false, "info": "Incorrect." },
-      { "text": "No fines applicable", "correct": false, "info": "Incorrect." }
+      { "text": "As specified in the Act or rules", "correct": true, "info": "Correct! Fines vary by offence." }
     ]
   },
   {
     "id": "q4",
     "question": "Section 299(2) allows for imprisonment in default of fine payment for a period not exceeding:",
     "options": [
-      { "text": "Three months", "correct": true, "info": "Correct! Specified in the Act." },
-      { "text": "Six months", "correct": false, "info": "Incorrect." },
-      { "text": "One year", "correct": false, "info": "Incorrect." },
-      { "text": "No imprisonment", "correct": false, "info": "Incorrect." }
+      { "text": "Three months", "correct": true, "info": "Correct! Specified in the Act." }
     ]
   },
   {
     "id": "q5",
     "question": "Under Section 300, who can compound an offence under the Act?",
     "options": [
-      { "text": "The municipality or its authorized officer", "correct": true, "info": "Correct! Compounding allowed by municipality." },
-      { "text": "The State Government only", "correct": false, "info": "Incorrect." },
-      { "text": "The District Magistrate", "correct": false, "info": "Incorrect." },
-      { "text": "No compounding allowed", "correct": false, "info": "Incorrect." }
+      { "text": "The municipality or its authorized officer", "correct": true, "info": "Correct! Compounding allowed by municipality." }
     ]
   },
   {
     "id": "q6",
     "question": "Section 300(2) specifies that compounding of an offence must be done before:",
     "options": [
-      { "text": "The case is decided by the court", "correct": true, "info": "Correct! Pre-trial compounding." },
-      { "text": "The offence is committed", "correct": false, "info": "Incorrect." },
-      { "text": "The fine is paid", "correct": false, "info": "Incorrect." },
-      { "text": "No time restriction", "correct": false, "info": "Incorrect." }
+      { "text": "The case is decided by the court", "correct": true, "info": "Correct! Pre-trial compounding." }
     ]
   },
   {
     "id": "q7",
     "question": "Under Section 301, a municipality can recover fines as:",
     "options": [
-      { "text": "Arrears of land revenue", "correct": true, "info": "Correct! Recovery mechanism specified." },
-      { "text": "Civil debt", "correct": false, "info": "Incorrect." },
-      { "text": "Municipal tax", "correct": false, "info": "Incorrect." },
-      { "text": "No recovery possible", "correct": false, "info": "Incorrect." }
+      { "text": "Arrears of land revenue", "correct": true, "info": "Correct! Recovery mechanism specified." }
     ]
   },
   {
     "id": "q8",
     "question": "Section 302 protects municipal officers acting in good faith from:",
     "options": [
-      { "text": "Legal proceedings for official acts", "correct": true, "info": "Correct! Immunity for good faith actions." },
-      { "text": "Criminal prosecution only", "correct": false, "info": "Incorrect." },
-      { "text": "Civil suits only", "correct": false, "info": "Incorrect." },
-      { "text": "No protection provided", "correct": false, "info": "Incorrect." }
+      { "text": "Legal proceedings for official acts", "correct": true, "info": "Correct! Immunity for good faith actions." }
     ]
   },
   {
     "id": "q9",
     "question": "Under Section 302(2), legal proceedings against municipal officers require prior notice of:",
     "options": [
-      { "text": "Two months", "correct": true, "info": "Correct! Notice period specified." },
-      { "text": "One month", "correct": false, "info": "Incorrect." },
-      { "text": "Six months", "correct": false, "info": "Incorrect." },
-      { "text": "No notice required", "correct": false, "info": "Incorrect." }
+      { "text": "Two months", "correct": true, "info": "Correct! Notice period specified." }
     ]
   },
   {
     "id": "q10",
     "question": "Section 303 allows the State Government to appoint an officer to:",
     "options": [
-      { "text": "Inquire into municipal irregularities", "correct": true, "info": "Correct! Inquiry power." },
-      { "text": "Conduct elections", "correct": false, "info": "Incorrect." },
-      { "text": "Frame bye-laws", "correct": false, "info": "Incorrect." },
-      { "text": "No officer appointment", "correct": false, "info": "Incorrect." }
+      { "text": "Inquire into municipal irregularities", "correct": true, "info": "Correct! Inquiry power." }
     ]
   },
   {
     "id": "q11",
     "question": "Under Section 303(2), the inquiry officer under Section 303 has the powers of:",
     "options": [
-      { "text": "A civil court under the Code of Civil Procedure", "correct": true, "info": "Correct!" },
-      { "text": "A criminal court", "correct": false, "info": "Incorrect." },
-      { "text": "The State Election Commission", "correct": false, "info": "Incorrect." },
-      { "text": "No specific powers", "correct": false, "info": "Incorrect." }
+      { "text": "A civil court under the Code of Civil Procedure", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q12",
     "question": "Section 304 requires municipalities to comply with inquiry findings within:",
     "options": [
-      { "text": "A reasonable time specified", "correct": true, "info": "Correct! Time-bound compliance." },
-      { "text": "One month", "correct": false, "info": "Incorrect." },
-      { "text": "Six months", "correct": false, "info": "Incorrect." },
-      { "text": "No compliance required", "correct": false, "info": "Incorrect." }
+      { "text": "A reasonable time specified", "correct": true, "info": "Correct! Time-bound compliance." }
     ]
   },
   {
     "id": "q13",
     "question": "Under Section 305, appeals against municipal orders can be filed with:",
     "options": [
-      { "text": "The State Government or designated authority", "correct": true, "info": "Correct!" },
-      { "text": "The District Court", "correct": false, "info": "Incorrect." },
-      { "text": "The Municipal Commissioner", "correct": false, "info": "Incorrect." },
-      { "text": "No appeals allowed", "correct": false, "info": "Incorrect." }
+      { "text": "The State Government or designated authority", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q14",
     "question": "Section 305(2) mandates that appeals under Section 305 be filed within:",
     "options": [
-      { "text": "30 days of the order", "correct": true, "info": "Correct!" },
-      { "text": "60 days", "correct": false, "info": "Incorrect." },
-      { "text": "15 days", "correct": false, "info": "Incorrect." },
-      { "text": "No time limit", "correct": false, "info": "Incorrect." }
+      { "text": "30 days of the order", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q15",
     "question": "Under Section 306, the State Government may suspend any municipal resolution if it is:",
     "options": [
-      { "text": "Against public interest or unlawful", "correct": true, "info": "Correct!" },
-      { "text": "Financially burdensome only", "correct": false, "info": "Incorrect." },
-      { "text": "Unpopular with residents", "correct": false, "info": "Incorrect." },
-      { "text": "No suspension possible", "correct": false, "info": "Incorrect." }
+      { "text": "Against public interest or unlawful", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q16",
     "question": "Section 306(2) requires the municipality to be given an opportunity to show cause before:",
     "options": [
-      { "text": "Suspension of a resolution", "correct": true, "info": "Correct! Due process required." },
-      { "text": "Imposition of fines", "correct": false, "info": "Incorrect." },
-      { "text": "New elections", "correct": false, "info": "Incorrect." },
-      { "text": "No opportunity required", "correct": false, "info": "Incorrect." }
+      { "text": "Suspension of a resolution", "correct": true, "info": "Correct! Due process required." }
     ]
   },
   {
     "id": "q17",
     "question": "Under Section 307, disputes between municipalities are resolved by:",
     "options": [
-      { "text": "The State Government", "correct": true, "info": "Correct!" },
-      { "text": "The High Court", "correct": false, "info": "Incorrect." },
-      { "text": "The District Collector", "correct": false, "info": "Incorrect." },
-      { "text": "No resolution mechanism", "correct": false, "info": "Incorrect." }
+      { "text": "The State Government", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q18",
     "question": "Section 307(2) allows the State Government to refer inter-municipal disputes to:",
     "options": [
-      { "text": "An arbitrator or committee", "correct": true, "info": "Correct!" },
-      { "text": "The Municipal Commissioner", "correct": false, "info": "Incorrect." },
-      { "text": "The public", "correct": false, "info": "Incorrect." },
-      { "text": "No referral allowed", "correct": false, "info": "Incorrect." }
+      { "text": "An arbitrator or committee", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q19",
     "question": "Under Section 308, the State Government may issue directions to municipalities for:",
     "options": [
-      { "text": "Efficient administration of the Act", "correct": true, "info": "Correct!" },
-      { "text": "Election scheduling", "correct": false, "info": "Incorrect." },
-      { "text": "Staff appointments only", "correct": false, "info": "Incorrect." },
-      { "text": "No directions allowed", "correct": false, "info": "Incorrect." }
+      { "text": "Efficient administration of the Act", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q20",
     "question": "Section 308(2) requires directions issued under Section 308 to be complied with within:",
     "options": [
-      { "text": "A specified reasonable time", "correct": true, "info": "Correct!" },
-      { "text": "30 days", "correct": false, "info": "Incorrect." },
-      { "text": "No time limit", "correct": false, "info": "Incorrect." },
-      { "text": "Immediate compliance", "correct": false, "info": "Incorrect." }
+      { "text": "A specified reasonable time", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q21",
     "question": "Under Section 298(3), legal proceedings for offences require sanction from:",
     "options": [
-      { "text": "The municipality or State Government", "correct": true, "info": "Correct!" },
-      { "text": "The District Court", "correct": false, "info": "Incorrect." },
-      { "text": "The public", "correct": false, "info": "Incorrect." },
-      { "text": "No sanction required", "correct": false, "info": "Incorrect." }
+      { "text": "The municipality or State Government", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q22",
     "question": "Section 299(3) allows courts to impose daily fines for continuing offences up to:",
     "options": [
-      { "text": "As specified in the Act", "correct": true, "info": "Correct!" },
-      { "text": "Rs. 500 per day", "correct": false, "info": "Incorrect." },
-      { "text": "Rs. 1,000 per day", "correct": false, "info": "Incorrect." },
-      { "text": "No daily fines", "correct": false, "info": "Incorrect." }
+      { "text": "As specified in the Act", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q23",
     "question": "Under Section 300(3), compounding fees are credited to:",
     "options": [
-      { "text": "The Municipal Fund", "correct": true, "info": "Correct!" },
-      { "text": "The State Treasury", "correct": false, "info": "Incorrect." },
-      { "text": "The District Collector", "correct": false, "info": "Incorrect." },
-      { "text": "No crediting required", "correct": false, "info": "Incorrect." }
+      { "text": "The Municipal Fund", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q24",
     "question": "Section 301(2) allows recovery of fines through:",
     "options": [
-      { "text": "Attachment and sale of property", "correct": true, "info": "Correct!" },
-      { "text": "Only civil suits", "correct": false, "info": "Incorrect." },
-      { "text": "Deduction from salaries", "correct": false, "info": "Incorrect." },
-      { "text": "No recovery mechanism", "correct": false, "info": "Incorrect." }
+      { "text": "Attachment and sale of property", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q25",
     "question": "Under Section 302(3), the notice for legal proceedings must specify:",
     "options": [
-      { "text": "The cause of action", "correct": true, "info": "Correct!" },
-      { "text": "The officer’s salary", "correct": false, "info": "Incorrect." },
-      { "text": "The municipal budget", "correct": false, "info": "Incorrect." },
-      { "text": "No specifics required", "correct": false, "info": "Incorrect." }
+      { "text": "The cause of action", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q26",
     "question": "Section 303(3) requires the inquiry officer to submit a report within:",
     "options": [
-      { "text": "A period specified by the State Government", "correct": true, "info": "Correct!" },
-      { "text": "30 days", "correct": false, "info": "Incorrect." },
-      { "text": "60 days", "correct": false, "info": "Incorrect." },
-      { "text": "No time limit", "correct": false, "info": "Incorrect." }
+      { "text": "A period specified by the State Government", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q27",
     "question": "Under Section 304(2), non-compliance with inquiry findings may lead to:",
     "options": [
-      { "text": "Dissolution of the municipality", "correct": true, "info": "Correct!" },
-      { "text": "No consequences", "correct": false, "info": "Incorrect." },
-      { "text": "Fine on Councillors", "correct": false, "info": "Incorrect." },
-      { "text": "Public protest", "correct": false, "info": "Incorrect." }
+      { "text": "Dissolution of the municipality", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q28",
     "question": "Section 305(3) allows the appellate authority to:",
     "options": [
-      { "text": "Confirm, modify, or set aside the order", "correct": true, "info": "Correct!" },
-      { "text": "Only confirm the order", "correct": false, "info": "Incorrect." },
-      { "text": "Only impose fines", "correct": false, "info": "Incorrect." },
-      { "text": "No powers specified", "correct": false, "info": "Incorrect." }
+      { "text": "Confirm, modify, or set aside the order", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q29",
     "question": "Under Section 306(3), a suspended resolution remains inoperative until:",
     "options": [
-      { "text": "The State Government lifts the suspension", "correct": true, "info": "Correct!" },
-      { "text": "The next municipal meeting", "correct": false, "info": "Incorrect." },
-      { "text": "Public approval", "correct": false, "info": "Incorrect." },
-      { "text": "No suspension period", "correct": false, "info": "Incorrect." }
+      { "text": "The State Government lifts the suspension", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q30",
     "question": "Section 307(3) mandates that decisions on inter-municipal disputes are:",
     "options": [
-      { "text": "Binding on all parties", "correct": true, "info": "Correct!" },
-      { "text": "Advisory only", "correct": false, "info": "Incorrect." },
-      { "text": "Subject to public vote", "correct": false, "info": "Incorrect." },
-      { "text": "Not enforceable", "correct": false, "info": "Incorrect." }
+      { "text": "Binding on all parties", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q31",
     "question": "Under Section 308(3), municipalities must report compliance with State Government directions to:",
     "options": [
-      { "text": "The State Government", "correct": true, "info": "Correct!" },
-      { "text": "The District Collector", "correct": false, "info": "Incorrect." },
-      { "text": "The public", "correct": false, "info": "Incorrect." },
-      { "text": "No reporting required", "correct": false, "info": "Incorrect." }
+      { "text": "The State Government", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q32",
     "question": "Section 298(4) prohibits prosecution of offences without:",
     "options": [
-      { "text": "Written complaint by authorized officer", "correct": true, "info": "Correct!" },
-      { "text": "Public petition", "correct": false, "info": "Incorrect." },
-      { "text": "Court permission", "correct": false, "info": "Incorrect." },
-      { "text": "No restrictions", "correct": false, "info": "Incorrect." }
+      { "text": "Written complaint by authorized officer", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q33",
     "question": "Under Section 299(4), continuing offences attract additional penalties for each:",
     "options": [
-      { "text": "Day of continuation", "correct": true, "info": "Correct!" },
-      { "text": "Week", "correct": false, "info": "Incorrect." },
-      { "text": "Month", "correct": false, "info": "Incorrect." },
-      { "text": "No additional penalties", "correct": false, "info": "Incorrect." }
+      { "text": "Day of continuation", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q34",
     "question": "Section 300(4) prohibits compounding of offences involving:",
     "options": [
-      { "text": "Serious violations like corruption", "correct": true, "info": "Correct!" },
-      { "text": "Minor fines", "correct": false, "info": "Incorrect." },
-      { "text": "All offences", "correct": false, "info": "Incorrect." },
-      { "text": "No restrictions on compounding", "correct": false, "info": "Incorrect." }
+      { "text": "Serious violations like corruption", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q35",
     "question": "Under Section 301(3), fines not paid within a specified period may lead to:",
     "options": [
-      { "text": "Attachment of property", "correct": true, "info": "Correct!" },
-      { "text": "No further action", "correct": false, "info": "Incorrect." },
-      { "text": "Municipal dissolution", "correct": false, "info": "Incorrect." },
-      { "text": "Public shaming", "correct": false, "info": "Incorrect." }
+      { "text": "Attachment of property", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q36",
     "question": "Section 302(4) does not protect municipal officers if they act with:",
     "options": [
-      { "text": "Malice or bad faith", "correct": true, "info": "Correct!" },
-      { "text": "Public approval", "correct": false, "info": "Incorrect." },
-      { "text": "State Government sanction", "correct": false, "info": "Incorrect." },
-      { "text": "No exceptions", "correct": false, "info": "Incorrect." }
+      { "text": "Malice or bad faith", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q37",
     "question": "Under Section 303(4), the inquiry officer can summon witnesses under:",
     "options": [
-      { "text": "The Code of Civil Procedure", "correct": true, "info": "Correct!" },
-      { "text": "The Criminal Procedure Code", "correct": false, "info": "Incorrect." },
-      { "text": "Municipal bye-laws", "correct": false, "info": "Incorrect." },
-      { "text": "No summoning power", "correct": false, "info": "Incorrect." }
+      { "text": "The Code of Civil Procedure", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q38",
     "question": "Section 304(3) allows the State Government to impose penalties for non-compliance, including:",
     "options": [
-      { "text": "Supersession of the municipality", "correct": true, "info": "Correct!" },
-      { "text": "Only fines", "correct": false, "info": "Incorrect." },
-      { "text": "Public apology", "correct": false, "info": "Incorrect." },
-      { "text": "No penalties", "correct": false, "info": "Incorrect." }
+      { "text": "Supersession of the municipality", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q39",
     "question": "Under Section 305(4), the decision of the appellate authority is:",
     "options": [
-      { "text": "Final and binding", "correct": true, "info": "Correct!" },
-      { "text": "Subject to High Court review", "correct": false, "info": "Incorrect." },
-      { "text": "Advisory only", "correct": false, "info": "Incorrect." },
-      { "text": "Subject to public vote", "correct": false, "info": "Incorrect." }
+      { "text": "Final and binding", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q40",
     "question": "Section 306(4) requires suspension of a resolution to be published in:",
     "options": [
-      { "text": "The Official Gazette", "correct": true, "info": "Correct!" },
-      { "text": "Local newspapers only", "correct": false, "info": "Incorrect." },
-      { "text": "Municipal website", "correct": false, "info": "Incorrect." },
-      { "text": "No publication required", "correct": false, "info": "Incorrect." }
+      { "text": "The Official Gazette", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q41",
     "question": "Under Section 307(4), the arbitrator’s decision on inter-municipal disputes must be submitted to:",
     "options": [
-      { "text": "The State Government", "correct": true, "info": "Correct!" },
-      { "text": "The municipalities only", "correct": false, "info": "Incorrect." },
-      { "text": "The District Court", "correct": false, "info": "Incorrect." },
-      { "text": "No submission required", "correct": false, "info": "Incorrect." }
+      { "text": "The State Government", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q42",
     "question": "Section 308(4) allows the State Government to enforce directions through:",
     "options": [
-      { "text": "Supersession or dissolution", "correct": true, "info": "Correct!" },
-      { "text": "Only fines", "correct": false, "info": "Incorrect." },
-      { "text": "Public notices", "correct": false, "info": "Incorrect." },
-      { "text": "No enforcement mechanism", "correct": false, "info": "Incorrect." }
+      { "text": "Supersession or dissolution", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q43",
     "question": "Under Section 298(5), offences under the Act are tried by:",
     "options": [
-      { "text": "A Magistrate of the first class", "correct": true, "info": "Correct!" },
-      { "text": "The District Judge", "correct": false, "info": "Incorrect." },
-      { "text": "The Municipal Commissioner", "correct": false, "info": "Incorrect." },
-      { "text": "No specific court", "correct": false, "info": "Incorrect." }
+      { "text": "A Magistrate of the first class", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q44",
     "question": "Section 299(5) allows the court to order compensation for damage caused by an offence up to:",
     "options": [
-      { "text": "The amount specified in the Act", "correct": true, "info": "Correct!" },
-      { "text": "Rs. 50,000", "correct": false, "info": "Incorrect." },
-      { "text": "Rs. 1,00,000", "correct": false, "info": "Incorrect." },
-      { "text": "No compensation allowed", "correct": false, "info": "Incorrect." }
+      { "text": "The amount specified in the Act", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q45",
     "question": "Under Section 300(5), records of compounded offences must be maintained by:",
     "options": [
-      { "text": "The municipality", "correct": true, "info": "Correct!" },
-      { "text": "The State Government", "correct": false, "info": "Incorrect." },
-      { "text": "The District Collector", "correct": false, "info": "Incorrect." },
-      { "text": "No records required", "correct": false, "info": "Incorrect." }
+      { "text": "The municipality", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q46",
     "question": "Section 301(4) requires fines to be recovered within:",
     "options": [
-      { "text": "A reasonable period specified", "correct": true, "info": "Correct!" },
-      { "text": "30 days", "correct": false, "info": "Incorrect." },
-      { "text": "60 days", "correct": false, "info": "Incorrect." },
-      { "text": "No time limit", "correct": false, "info": "Incorrect." }
+      { "text": "A reasonable period specified", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q47",
     "question": "Under Section 302(5), protection for municipal officers does not apply to:",
     "options": [
-      { "text": "Criminal acts", "correct": true, "info": "Correct!" },
-      { "text": "Administrative decisions", "correct": false, "info": "Incorrect." },
-      { "text": "Financial approvals", "correct": false, "info": "Incorrect." },
-      { "text": "All acts protected", "correct": false, "info": "Incorrect." }
+      { "text": "Criminal acts", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q48",
     "question": "Section 303(5) allows the inquiry officer to recommend:",
     "options": [
-      { "text": "Corrective measures to the State Government", "correct": true, "info": "Correct!" },
-      { "text": "Dissolution only", "correct": false, "info": "Incorrect." },
-      { "text": "Fines only", "correct": false, "info": "Incorrect." },
-      { "text": "No recommendations", "correct": false, "info": "Incorrect." }
+      { "text": "Corrective measures to the State Government", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q49",
     "question": "Under Section 305(5), appeals must be disposed of within:",
     "options": [
-      { "text": "Three months", "correct": true, "info": "Correct!" },
-      { "text": "Six months", "correct": false, "info": "Incorrect." },
-      { "text": "One year", "correct": false, "info": "Incorrect." },
-      { "text": "No time limit", "correct": false, "info": "Incorrect." }
+      { "text": "Three months", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q50",
     "question": "Section 306(5) requires municipalities to report compliance with suspension orders to:",
     "options": [
-      { "text": "The State Government", "correct": true, "info": "Correct!" },
-      { "text": "The District Collector", "correct": false, "info": "Incorrect." },
-      { "text": "The public", "correct": false, "info": "Incorrect." },
-      { "text": "No reporting required", "correct": false, "info": "Incorrect." }
+      { "text": "The State Government", "correct": true, "info": "Correct!" }
     ]
   }
 ]
