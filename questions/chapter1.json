@@ -1,1002 +1,282 @@
 [
   {
-    "id": "q1",
-    "question": "Under Section 3 of the Rajasthan Municipalities Act, 2009, the delimitation of municipalities is done by:",
-    "options": [
-      { "text": "The State Election Commission", "correct": false, "info": "Incorrect. The State Election Commission handles elections, not delimitation." },
-      { "text": "The State Government by notification", "correct": true, "info": "Correct! Section 3 empowers the State Government to delimit municipalities by notification." },
-      { "text": "The District Collector", "correct": false, "info": "Incorrect. District Collector has no such power under this section." },
-      { "text": "The Chief Minister", "correct": false, "info": "Incorrect. It is the State Government as a whole." }
-    ]
-  },
-  {
-    "id": "q2",
-    "question": "According to Section 4 of the Act, the State Government has the power to:",
-    "options": [
-      { "text": "Exempt any municipality from all or any provisions of the Act", "correct": true, "info": "Correct! Section 4 allows exemption from provisions of the Act." },
-      { "text": "Merge two municipalities without notification", "correct": false, "info": "Incorrect. Mergers require specific procedure." },
-      { "text": "Appoint Councillors directly", "correct": false, "info": "Incorrect. Appointments are not under this section." },
-      { "text": "Dissolve the State Election Commission", "correct": false, "info": "Incorrect. This is not provided." }
-    ]
-  },
-  {
-    "id": "q3",
-    "question": "Section 5 of the Rajasthan Municipalities Act, 2009 deals with:",
-    "options": [
-      { "text": "Alteration of limits of existing municipalities", "correct": true, "info": "Correct! It provides for inclusion or exclusion of areas." },
-      { "text": "Conduct of elections", "correct": false, "info": "Incorrect. Elections are covered later." },
-      { "text": "Financial powers of municipalities", "correct": false, "info": "Incorrect. Financial matters are in later chapters." },
-      { "text": "Reservation of seats", "correct": false, "info": "Incorrect. Reservation is in Section 15." }
-    ]
-  },
-  {
-    "id": "q4",
-    "question": "Under Section 6, when an area is included in a municipality, the State Government shall:",
-    "options": [
-      { "text": "Appoint a new Administrator immediately", "correct": false, "info": "Incorrect. No such provision." },
-      { "text": "Fix a date from which the inclusion takes effect", "correct": true, "info": "Correct! The notification specifies the date." },
-      { "text": "Conduct a referendum in the area", "correct": false, "info": "Incorrect. No referendum required." },
-      { "text": "Transfer all staff to the new area", "correct": false, "info": "Incorrect. Transfer is separate." }
-    ]
-  },
-  {
-    "id": "q5",
-    "question": "Section 7 provides for the exclusion of any local area from a municipality. Upon such exclusion, the:",
-    "options": [
-      { "text": "Municipality ceases to exist entirely", "correct": false, "info": "Incorrect. Only the excluded area is removed." },
-      { "text": "Excluded area becomes part of a panchayat", "correct": false, "info": "Incorrect. It may or may not; depends on notification." },
-      { "text": "Municipal fund is divided proportionally", "correct": true, "info": "Correct! Section 7 deals with consequences including fund division." },
-      { "text": "All properties are auctioned", "correct": false, "info": "Incorrect. No such provision." }
-    ]
-  },
-  {
-    "id": "q6",
-    "question": "As per Section 8, the conversion of a Nagar Panchayat into a Municipality requires:",
-    "options": [
-      { "text": "Approval of the High Court", "correct": false, "info": "Incorrect. No court approval needed." },
-      { "text": "Notification by the State Government", "correct": true, "info": "Correct! Conversion is by government notification." },
-      { "text": "Election of new Councillors", "correct": false, "info": "Incorrect. Elections follow conversion." },
-      { "text": "Public consultation only", "correct": false, "info": "Incorrect. Not mandatory." }
-    ]
-  },
-  {
-    "id": "q7",
-    "question": "Section 9 of the Act allows the State Government to abolish a municipality if:",
-    "options": [
-      { "text": "The population falls below 10,000", "correct": true, "info": "Correct! One ground is low population as per criteria." },
-      { "text": "Councillors resign en masse", "correct": false, "info": "Incorrect. Resignations lead to by-elections." },
-      { "text": "Financial insolvency only", "correct": false, "info": "Incorrect. Multiple grounds." },
-      { "text": "Directive from Central Government", "correct": false, "info": "Incorrect. State level." }
-    ]
-  },
-  {
-    "id": "q8",
-    "question": "Upon abolition under Section 9, the consequences under Section 10 include:",
-    "options": [
-      { "text": "Automatic dissolution of all contracts", "correct": false, "info": "Incorrect. Contracts may continue." },
-      { "text": "Transfer of assets to the State Government", "correct": true, "info": "Correct! Assets and liabilities vest in government." },
-      { "text": "Councillors become life members", "correct": false, "info": "Incorrect. Term ends." },
-      { "text": "No effect on ongoing projects", "correct": false, "info": "Incorrect. Projects are transferred." }
-    ]
-  },
-  {
-    "id": "q9",
-    "question": "Section 11 empowers the State Government to create a new municipality by including areas from:",
-    "options": [
-      { "text": "One or more existing municipalities", "correct": true, "info": "Correct! It allows carving out new from existing." },
-      { "text": "Rural areas only", "correct": false, "info": "Incorrect. Can be urban areas." },
-      { "text": "Cantonment areas", "correct": false, "info": "Incorrect. Excluded." },
-      { "text": "Forest reserves", "correct": false, "info": "Incorrect. Not applicable." }
-    ]
-  },
-  {
-    "id": "q10",
-    "question": "Under Section 12, a municipality is a body corporate with the power to:",
-    "options": [
-      { "text": "Acquire, hold and dispose of property", "correct": true, "info": "Correct! It has corporate powers." },
-      { "text": "Declare war", "correct": false, "info": "Incorrect. Not a sovereign body." },
-      { "text": "Print currency", "correct": false, "info": "Incorrect. No such power." },
-      { "text": "Appoint judges", "correct": false, "info": "Incorrect. Judicial powers not vested." }
-    ]
-  },
-  {
-    "id": "q11",
-    "question": "Section 13 specifies the composition of a municipality, which includes:",
-    "options": [
-      { "text": "All adult residents as members", "correct": false, "info": "Incorrect. Elected Councillors." },
-      { "text": "Elected Councillors and persons nominated by government", "correct": true, "info": "Correct! Includes elected and nominated members." },
-      { "text": "Only MLAs from the area", "correct": false, "info": "Incorrect. No." },
-      { "text": "Judges from local courts", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q12",
-    "question": "As per Section 14, Ward Committees are constituted for municipalities with population over:",
-    "options": [
-      { "text": "1 lakh", "correct": false, "info": "Incorrect." },
-      { "text": "3 lakhs", "correct": true, "info": "Correct! For larger municipalities." },
-      { "text": "50,000", "correct": false, "info": "Incorrect." },
-      { "text": "5 lakhs", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q13",
-    "question": "Section 15 provides for reservation of seats for:",
-    "options": [
-      { "text": "Scheduled Castes, Scheduled Tribes, women and backward classes", "correct": true, "info": "Correct! Multiple reservations." },
-      { "text": "Only women", "correct": false, "info": "Incorrect. Multiple categories." },
-      { "text": "Senior citizens", "correct": false, "info": "Incorrect." },
-      { "text": "Minorities only", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q14",
-    "question": "The duration of municipalities under Section 16 is:",
-    "options": [
-      { "text": "4 years", "correct": false, "info": "Incorrect." },
-      { "text": "5 years", "correct": true, "info": "Correct! Standard term." },
-      { "text": "3 years", "correct": false, "info": "Incorrect." },
-      { "text": "6 years", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q15",
-    "question": "Under Section 17, the term of office of Councillors is co-terminus with:",
-    "options": [
-      { "text": "The municipality's duration", "correct": true, "info": "Correct!" },
-      { "text": "State assembly term", "correct": false, "info": "Incorrect." },
-      { "text": "Fixed 5 years regardless", "correct": false, "info": "Incorrect." },
-      { "text": "Until next delimitation", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q16",
-    "question": "Section 18 lists grounds for vacation of seats, including:",
-    "options": [
-      { "text": "Absence from three consecutive meetings without leave", "correct": true, "info": "Correct! One of the grounds." },
-      { "text": "Marriage to a foreigner", "correct": false, "info": "Incorrect." },
-      { "text": "Owning more than two properties", "correct": false, "info": "Incorrect." },
-      { "text": "Voting against party whip", "correct": false, "info": "Incorrect. No party whip in local bodies." }
-    ]
-  },
-  {
-    "id": "q17",
-    "question": "As per Section 19, resignation by a Councillor is effective after:",
-    "options": [
-      { "text": "Immediate effect", "correct": false, "info": "Incorrect." },
-      { "text": "Acceptance by the Deputy Commissioner", "correct": true, "info": "Correct! Requires acceptance." },
-      { "text": "7 days notice", "correct": false, "info": "Incorrect." },
-      { "text": "Vote by the Board", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q18",
-    "question": "Section 20 mandates filling of casual vacancies within:",
-    "options": [
-      { "text": "3 months", "correct": false, "info": "Incorrect." },
-      { "text": "6 months", "correct": true, "info": "Correct! By-election within 6 months." },
-      { "text": "1 year", "correct": false, "info": "Incorrect." },
-      { "text": "No time limit", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q19",
-    "question": "Under Section 21, the electoral roll for municipality is prepared on the basis of:",
-    "options": [
-      { "text": "Assembly electoral rolls", "correct": true, "info": "Correct! Linked to assembly rolls." },
-      { "text": "Separate census", "correct": false, "info": "Incorrect." },
-      { "text": "Voter ID cards only", "correct": false, "info": "Incorrect." },
-      { "text": "Property tax payers", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q20",
-    "question": "Section 22 defines the right to vote for persons whose names are in the electoral roll and who have:",
-    "options": [
-      { "text": "Completed 18 years", "correct": true, "info": "Correct! Age qualification." },
-      { "text": "Paid property tax", "correct": false, "info": "Incorrect. No tax link for voting." },
-      { "text": "Resided for 6 months", "correct": false, "info": "Incorrect. Residence as per roll." },
-      { "text": "All of the above", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q21",
-    "question": "According to Section 23, a person is qualified to be a Councillor if he:",
-    "options": [
-      { "text": "Is not less than 21 years and enrolled in electoral roll", "correct": true, "info": "Correct! Basic qualifications." },
-      { "text": "Is a government employee", "correct": false, "info": "Incorrect. Disqualification." },
-      { "text": "Has a college degree", "correct": false, "info": "Incorrect. No education requirement." },
-      { "text": "Pays income tax", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q22",
-    "question": "Section 24 lists disqualifications for membership, which include:",
-    "options": [
-      { "text": "Being of unsound mind or undischarged insolvent", "correct": true, "info": "Correct! Standard disqualifications." },
-      { "text": "Being a teacher in a school", "correct": false, "info": "Incorrect." },
-      { "text": "Owning agricultural land", "correct": false, "info": "Incorrect." },
-      { "text": "All of the above", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q23",
-    "question": "Under Section 25, elections to constitute the municipality shall be completed before the expiry of:",
-    "options": [
-      { "text": "Its duration", "correct": true, "info": "Correct! Before term ends." },
-      { "text": "One year of term", "correct": false, "info": "Incorrect." },
-      { "text": "Six months after term", "correct": false, "info": "Incorrect." },
-      { "text": "No fixed time", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q24",
-    "question": "Section 26 establishes the:",
-    "options": [
-      { "text": "State Election Commission", "correct": true, "info": "Correct! For local body elections." },
-      { "text": "Municipal Election Board", "correct": false, "info": "Incorrect." },
-      { "text": "Returning Officers Committee", "correct": false, "info": "Incorrect." },
-      { "text": "Voter Registration Authority", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q25",
-    "question": "As per Section 27, the superintendence, direction and control of the preparation of electoral rolls and conduct of elections vest in the:",
-    "options": [
-      { "text": "State Election Commission", "correct": true, "info": "Correct!" },
-      { "text": "State Government", "correct": false, "info": "Incorrect." },
-      { "text": "District Election Officer", "correct": false, "info": "Incorrect." },
-      { "text": "Chief Electoral Officer", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q26",
-    "question": "Section 28 specifies the qualification for appointment as State Election Commissioner, which requires:",
-    "options": [
-      { "text": "Being a retired High Court Judge or equivalent", "correct": true, "info": "Correct! Judicial or administrative experience." },
-      { "text": "Being a current MLA", "correct": false, "info": "Incorrect." },
-      { "text": "Having 10 years in municipal service", "correct": false, "info": "Incorrect." },
-      { "text": "No specific qualification", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q27",
-    "question": "Under Section 29, the term of office of the State Election Commissioner is:",
-    "options": [
-      { "text": "6 years or age 65, whichever earlier", "correct": true, "info": "Correct!" },
-      { "text": "5 years fixed", "correct": false, "info": "Incorrect." },
-      { "text": "Till retirement age 62", "correct": false, "info": "Incorrect." },
-      { "text": "At pleasure of government", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q28",
-    "question": "Section 30 allows the State Election Commission to appoint staff for:",
-    "options": [
-      { "text": "Conduct of elections and preparation of rolls", "correct": true, "info": "Correct!" },
-      { "text": "Municipal tax collection", "correct": false, "info": "Incorrect." },
-      { "text": "Urban planning", "correct": false, "info": "Incorrect." },
-      { "text": "All municipal functions", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q29",
-    "question": "As per Section 31, an election petition can be filed before the:",
-    "options": [
-      { "text": "District Judge", "correct": true, "info": "Correct! Within specified time." },
-      { "text": "High Court directly", "correct": false, "info": "Incorrect." },
-      { "text": "State Election Commission", "correct": false, "info": "Incorrect." },
-      { "text": "Civil Court", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q30",
-    "question": "Section 32 provides for appeals from orders of the District Judge in election petitions to the:",
-    "options": [
-      { "text": "High Court", "correct": true, "info": "Correct!" },
-      { "text": "Supreme Court", "correct": false, "info": "Incorrect." },
-      { "text": "State Government", "correct": false, "info": "Incorrect." },
-      { "text": "No appeal lies", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q31",
-    "question": "Under Section 33, corrupt practices in elections include:",
-    "options": [
-      { "text": "Bribery, undue influence and impersonation", "correct": true, "info": "Correct! Listed corrupt practices." },
-      { "text": "Late filing of nomination", "correct": false, "info": "Incorrect. Not corrupt." },
-      { "text": "Wearing party symbol", "correct": false, "info": "Incorrect." },
-      { "text": "All of the above", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q32",
-    "question": "Section 34 mandates the maintenance of secrecy of voting, prohibiting:",
-    "options": [
-      { "text": "Discussion of vote with others", "correct": true, "info": "Correct! Secrecy provisions." },
-      { "text": "Use of EVMs", "correct": false, "info": "Incorrect." },
-      { "text": "Postal ballots", "correct": false, "info": "Incorrect." },
-      { "text": "Proxy voting", "correct": false, "info": "Incorrect. Already prohibited." }
-    ]
-  },
-  {
-    "id": "q33",
-    "question": "As per Section 35, officers at elections shall not act as:",
-    "options": [
-      { "text": "Agents for candidates", "correct": true, "info": "Correct! Impartiality required." },
-      { "text": "Voters", "correct": false, "info": "Incorrect." },
-      { "text": "Observers", "correct": false, "info": "Incorrect." },
-      { "text": "Returning Officers", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q34",
-    "question": "Section 36 prohibits canvassing within:",
-    "options": [
-      { "text": "100 meters of polling station", "correct": true, "info": "Correct! No canvassing near polling station." },
-      { "text": "500 meters", "correct": false, "info": "Incorrect." },
-      { "text": "1 km", "correct": false, "info": "Incorrect." },
-      { "text": "No restriction", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q35",
-    "question": "Under Section 37, penalty for disorderly conduct in polling station is imprisonment up to:",
-    "options": [
-      { "text": "3 months or fine or both", "correct": true, "info": "Correct!" },
-      { "text": "1 year", "correct": false, "info": "Incorrect." },
-      { "text": "6 months", "correct": false, "info": "Incorrect." },
-      { "text": "No penalty", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q36",
-    "question": "Section 38 makes it an offence to remove ballot paper from:",
-    "options": [
-      { "text": "Polling station", "correct": true, "info": "Correct!" },
-      { "text": "Counting center", "correct": false, "info": "Incorrect." },
-      { "text": "Returning Officer's office", "correct": false, "info": "Incorrect." },
-      { "text": "All places", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q37",
-    "question": "Booth capturing under Section 39 is punishable with:",
-    "options": [
-      { "text": "Imprisonment for 3 years and fine", "correct": true, "info": "Correct! Severe penalty." },
-      { "text": "Fine only", "correct": false, "info": "Incorrect." },
-      { "text": "Community service", "correct": false, "info": "Incorrect." },
-      { "text": "Disqualification for 2 years", "correct": false, "info": "Incorrect. More severe." }
-    ]
-  },
-  {
-    "id": "q38",
-    "question": "Section 40 covers other offences like tampering with nomination papers, punishable with:",
-    "options": [
-      { "text": "Imprisonment up to 1 year or fine or both", "correct": true, "info": "Correct!" },
-      { "text": "2 years", "correct": false, "info": "Incorrect." },
-      { "text": "No specific penalty", "correct": false, "info": "Incorrect." },
-      { "text": "Civil fine only", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q39",
-    "question": "Under Section 41, the State Government can make rules for:",
-    "options": [
-      { "text": "All matters relating to elections", "correct": true, "info": "Correct! Rule-making power." },
-      { "text": "Taxation only", "correct": false, "info": "Incorrect." },
-      { "text": "Staff appointment", "correct": false, "info": "Incorrect." },
-      { "text": "Delimitation", "correct": false, "info": "Incorrect. Separate." }
-    ]
-  },
-  {
-    "id": "q40",
-    "question": "Section 42 requires the State Election Commission to call for election:",
-    "options": [
-      { "text": "Within 6 months before expiry of term", "correct": true, "info": "Correct!" },
-      { "text": "After expiry", "correct": false, "info": "Incorrect." },
-      { "text": "On demand of government", "correct": false, "info": "Incorrect." },
-      { "text": "Annually", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q41",
-    "question": "As per Section 43, notification for election is published by:",
-    "options": [
-      { "text": "State Election Commission in official gazette", "correct": true, "info": "Correct!" },
-      { "text": "Municipal Commissioner", "correct": false, "info": "Incorrect." },
-      { "text": "District Magistrate", "correct": false, "info": "Incorrect." },
-      { "text": "Local newspaper only", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q42",
-    "question": "Section 44 designates the Returning Officer for conduct of election as appointed by:",
-    "options": [
-      { "text": "State Election Commission", "correct": true, "info": "Correct!" },
-      { "text": "State Government", "correct": false, "info": "Incorrect." },
-      { "text": "Municipality", "correct": false, "info": "Incorrect." },
-      { "text": "Political parties", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q43",
-    "question": "Under Section 45, polling stations are appointed to ensure:",
-    "options": [
-      { "text": "One station per 1000 voters", "correct": false, "info": "Incorrect. No fixed number." },
-      { "text": "Convenience of voters and secrecy", "correct": true, "info": "Correct! Key principles." },
-      { "text": "Only in government buildings", "correct": false, "info": "Incorrect." },
-      { "text": "Central location only", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q44",
-    "question": "Section 46 provides for preparation of voters list by:",
-    "options": [
-      { "text": "Electoral Registration Officer", "correct": true, "info": "Correct!" },
-      { "text": "Returning Officer", "correct": false, "info": "Incorrect." },
-      { "text": "State Election Commission directly", "correct": false, "info": "Incorrect." },
-      { "text": "Municipal staff", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q45",
-    "question": "As per Section 47, the voters list is published on:",
-    "options": [
-      { "text": "Notice board of municipality and website", "correct": true, "info": "Correct! Public display." },
-      { "text": "Only in gazette", "correct": false, "info": "Incorrect." },
-      { "text": "Secretly", "correct": false, "info": "Incorrect." },
-      { "text": "To candidates only", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q46",
-    "question": "Section 48 allows revision of electoral roll:",
-    "options": [
-      { "text": "Intensive or summary as directed", "correct": true, "info": "Correct! Types of revision." },
-      { "text": "Only annually", "correct": false, "info": "Incorrect." },
-      { "text": "Never after publication", "correct": false, "info": "Incorrect." },
-      { "text": "By court order only", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q47",
-    "question": "Under Section 49, nomination papers must be presented by:",
-    "options": [
-      { "text": "Candidate or proposer/seconder", "correct": true, "info": "Correct!" },
-      { "text": "Any voter", "correct": false, "info": "Incorrect." },
-      { "text": "Party president", "correct": false, "info": "Incorrect." },
-      { "text": "No presentation needed", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q48",
-    "question": "Section 50 deals with withdrawal of candidature, which can be done:",
-    "options": [
-      { "text": "Any time before withdrawal date", "correct": true, "info": "Correct! Specified date." },
-      { "text": "After polling", "correct": false, "info": "Incorrect." },
-      { "text": "Only with commission approval", "correct": false, "info": "Incorrect." },
-      { "text": "Not allowed", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q49",
-    "question": "In Section 3, the notification for delimitation must specify:",
-    "options": [
-      { "text": "The local area and its limits", "correct": true, "info": "Correct!" },
-      { "text": "Election date", "correct": false, "info": "Incorrect." },
-      { "text": "Budget allocation", "correct": false, "info": "Incorrect." },
-      { "text": "Staff requirements", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q50",
-    "question": "Under Section 5(2), before altering limits, the State Government shall consider:",
-    "options": [
-      { "text": "Objections from affected persons", "correct": true, "info": "Correct! Public hearing implied." },
-      { "text": "Only financial impact", "correct": false, "info": "Incorrect." },
-      { "text": "No consideration needed", "correct": false, "info": "Incorrect." },
-      { "text": "Approval from Parliament", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q51",
-    "question": "Under Section 6(2), when an area is included in a municipality, the existing Councillors:",
-    "options": [
-      { "text": "Continue until new elections", "correct": true, "info": "Correct! Their term continues." },
-      { "text": "Are immediately replaced", "correct": false, "info": "Incorrect." },
-      { "text": "Lose voting rights", "correct": false, "info": "Incorrect." },
-      { "text": "Must resign", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q52",
-    "question": "Section 7(3) ensures that excluded areas are vested with:",
-    "options": [
-      { "text": "Assets and liabilities as notified", "correct": true, "info": "Correct! Proportionate transfer." },
-      { "text": "No assets", "correct": false, "info": "Incorrect." },
-      { "text": "All municipal funds", "correct": false, "info": "Incorrect." },
-      { "text": "State Government control", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q53",
-    "question": "Under Section 8, conversion of a municipality to a higher category depends on:",
-    "options": [
-      { "text": "Population and revenue criteria", "correct": true, "info": "Correct! Specific criteria must be met." },
-      { "text": "Councillor approval", "correct": false, "info": "Incorrect." },
-      { "text": "Public demand only", "correct": false, "info": "Incorrect." },
-      { "text": "Court order", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q54",
-    "question": "Section 9 allows abolition of a municipality if it fails to perform duties under:",
-    "options": [
-      { "text": "Section 45 of the Act", "correct": true, "info": "Correct! Duty failure is a ground." },
-      { "text": "Section 15 only", "correct": false, "info": "Incorrect." },
-      { "text": "No specific section", "correct": false, "info": "Incorrect." },
-      { "text": "Central Government orders", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q55",
-    "question": "Section 10(2) specifies that after abolition, employees of the municipality are:",
-    "options": [
-      { "text": "Transferred to other municipalities or government", "correct": true, "info": "Correct! Continuity ensured." },
-      { "text": "Terminated immediately", "correct": false, "info": "Incorrect." },
-      { "text": "Retired with pension", "correct": false, "info": "Incorrect." },
-      { "text": "Rehired by new municipality", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q56",
-    "question": "Under Section 11, the creation of a new municipality requires consultation with:",
-    "options": [
-      { "text": "The existing municipality", "correct": true, "info": "Correct! Consultation is mandatory." },
-      { "text": "Central Government", "correct": false, "info": "Incorrect." },
-      { "text": "No consultation needed", "correct": false, "info": "Incorrect." },
-      { "text": "Local NGOs", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q57",
-    "question": "Section 12 grants municipalities the status of:",
-    "options": [
-      { "text": "Perpetual succession and common seal", "correct": true, "info": "Correct! Corporate status." },
-      { "text": "Sovereign entity", "correct": false, "info": "Incorrect." },
-      { "text": "Temporary body", "correct": false, "info": "Incorrect." },
-      { "text": "Advisory committee", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q58",
-    "question": "Under Section 13(2), nominated members of a municipality have:",
-    "options": [
-      { "text": "No voting rights in meetings", "correct": true, "info": "Correct! Limited role." },
-      { "text": "Full voting rights", "correct": false, "info": "Incorrect." },
-      { "text": "Veto power", "correct": false, "info": "Incorrect." },
-      { "text": "Same powers as elected members", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q59",
-    "question": "Section 14(3) allows Ward Committees to be headed by:",
-    "options": [
-      { "text": "Elected Councillor of the ward", "correct": true, "info": "Correct!" },
-      { "text": "State Government nominee", "correct": false, "info": "Incorrect." },
-      { "text": "Municipal Commissioner", "correct": false, "info": "Incorrect." },
-      { "text": "Any voter", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
-    "id": "q60",
-    "question": "Under Section 15, the reservation of seats for women is at least:",
-    "options": [
-      { "text": "One-third of total seats", "correct": true, "info": "Correct! Constitutional mandate." },
-      { "text": "One-half of total seats", "correct": false, "info": "Incorrect." },
-      { "text": "One-fourth of total seats", "correct": false, "info": "Incorrect." },
-      { "text": "No fixed percentage", "correct": false, "info": "Incorrect." }
-    ]
-  },
-  {
     "id": "q61",
     "question": "Section 16(2) allows extension of municipal term in case of:",
     "options": [
-      { "text": "Emergency as declared by State Government", "correct": true, "info": "Correct! Limited extension." },
-      { "text": "Councillor demand", "correct": false, "info": "Incorrect." },
-      { "text": "Public protest", "correct": false, "info": "Incorrect." },
-      { "text": "No extension allowed", "correct": false, "info": "Incorrect." }
+      { "text": "Emergency as declared by State Government", "correct": true, "info": "Correct! Limited extension." }
     ]
   },
   {
     "id": "q62",
     "question": "Under Section 17, a Councillor’s term begins from:",
     "options": [
-      { "text": "Date of first meeting of municipality", "correct": true, "info": "Correct!" },
-      { "text": "Date of election", "correct": false, "info": "Incorrect." },
-      { "text": "Date of notification", "correct": false, "info": "Incorrect." },
-      { "text": "Date of oath", "correct": false, "info": "Incorrect." }
+      { "text": "Date of first meeting of municipality", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q63",
     "question": "Section 18(2) allows vacation of seat if a Councillor is convicted of an offence involving:",
     "options": [
-      { "text": "Moral turpitude", "correct": true, "info": "Correct! Specific disqualification." },
-      { "text": "Traffic violation", "correct": false, "info": "Incorrect." },
-      { "text": "Civil dispute", "correct": false, "info": "Incorrect." },
-      { "text": "Any fine", "correct": false, "info": "Incorrect." }
+      { "text": "Moral turpitude", "correct": true, "info": "Correct! Specific disqualification." }
     ]
   },
   {
     "id": "q64",
     "question": "Under Section 19, resignation must be addressed to:",
     "options": [
-      { "text": "Deputy Commissioner or equivalent", "correct": true, "info": "Correct!" },
-      { "text": "Municipal Chairperson", "correct": false, "info": "Incorrect." },
-      { "text": "State Election Commission", "correct": false, "info": "Incorrect." },
-      { "text": "Governor", "correct": false, "info": "Incorrect." }
+      { "text": "Deputy Commissioner or equivalent", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q65",
     "question": "Section 20(2) states that a casual vacancy is filled by:",
     "options": [
-      { "text": "By-election or nomination as per rules", "correct": true, "info": "Correct!" },
-      { "text": "Appointment by government", "correct": false, "info": "Incorrect." },
-      { "text": "No filling required", "correct": false, "info": "Incorrect." },
-      { "text": "Co-option by municipality", "correct": false, "info": "Incorrect." }
+      { "text": "By-election or nomination as per rules", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q66",
     "question": "Under Section 21(2), the electoral roll is updated in accordance with:",
     "options": [
-      { "text": "Representation of People Act, 1950", "correct": true, "info": "Correct!" },
-      { "text": "Panchayati Raj Act", "correct": false, "info": "Incorrect." },
-      { "text": "Municipal bye-laws", "correct": false, "info": "Incorrect." },
-      { "text": "No specific law", "correct": false, "info": "Incorrect." }
+      { "text": "Representation of People Act, 1950", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q67",
     "question": "Section 22(2) disqualifies a voter if they are:",
     "options": [
-      { "text": "Declared of unsound mind by court", "correct": true, "info": "Correct!" },
-      { "text": "A non-resident", "correct": false, "info": "Incorrect." },
-      { "text": "Under 21 years", "correct": false, "info": "Incorrect." },
-      { "text": "A government servant", "correct": false, "info": "Incorrect." }
+      { "text": "Declared of unsound mind by court", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q68",
     "question": "Under Section 23(2), a candidate for Councillor must not be:",
     "options": [
-      { "text": "In employment under municipality", "correct": true, "info": "Correct! Disqualification." },
-      { "text": "A voter in another ward", "correct": false, "info": "Incorrect." },
-      { "text": "A property owner", "correct": false, "info": "Incorrect." },
-      { "text": "A senior citizen", "correct": false, "info": "Incorrect." }
+      { "text": "In employment under municipality", "correct": true, "info": "Correct! Disqualification." }
     ]
   },
   {
     "id": "q69",
     "question": "Section 24(3) disqualifies a person from being a Councillor if they hold:",
     "options": [
-      { "text": "Office of profit under government", "correct": true, "info": "Correct!" },
-      { "text": "Private company shares", "correct": false, "info": "Incorrect." },
-      { "text": "Charitable trust position", "correct": false, "info": "Incorrect." },
-      { "text": "No disqualifications", "correct": false, "info": "Incorrect." }
+      { "text": "Office of profit under government", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q70",
     "question": "Under Section 25(2), elections may be postponed due to:",
     "options": [
-      { "text": "Public emergency or calamity", "correct": true, "info": "Correct!" },
-      { "text": "Lack of candidates", "correct": false, "info": "Incorrect." },
-      { "text": "Financial constraints", "correct": false, "info": "Incorrect." },
-      { "text": "No postponement allowed", "correct": false, "info": "Incorrect." }
+      { "text": "Public emergency or calamity", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q71",
     "question": "Section 26(2) protects the State Election Commissioner from removal except by:",
     "options": [
-      { "text": "Order of Governor on misconduct", "correct": true, "info": "Correct!" },
-      { "text": "State Government decision", "correct": false, "info": "Incorrect." },
-      { "text": "Municipal resolution", "correct": false, "info": "Incorrect." },
-      { "text": "Public petition", "correct": false, "info": "Incorrect." }
+      { "text": "Order of Governor on misconduct", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q72",
     "question": "Under Section 27(2), the State Election Commission consults the State Government on:",
     "options": [
-      { "text": "Staff conditions of service", "correct": true, "info": "Correct!" },
-      { "text": "Election dates only", "correct": false, "info": "Incorrect." },
-      { "text": "Voter list preparation", "correct": false, "info": "Incorrect." },
-      { "text": "No consultation required", "correct": false, "info": "Incorrect." }
+      { "text": "Staff conditions of service", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q73",
     "question": "Section 28(3) ensures the State Election Commissioner’s conditions of service are equivalent to:",
     "options": [
-      { "text": "High Court Judge", "correct": true, "info": "Correct!" },
-      { "text": "District Judge", "correct": false, "info": "Incorrect." },
-      { "text": "Municipal Commissioner", "correct": false, "info": "Incorrect." },
-      { "text": "No specific equivalence", "correct": false, "info": "Incorrect." }
+      { "text": "High Court Judge", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q74",
     "question": "Under Section 29, the State Election Commissioner can be removed for:",
     "options": [
-      { "text": "Proved misbehavior or incapacity", "correct": true, "info": "Correct!" },
-      { "text": "Administrative inefficiency", "correct": false, "info": "Incorrect." },
-      { "text": "Failure to conduct elections", "correct": false, "info": "Incorrect." },
-      { "text": "Political affiliation", "correct": false, "info": "Incorrect." }
+      { "text": "Proved misbehavior or incapacity", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q75",
     "question": "Section 30(2) allows the State Election Commission to requisition:",
     "options": [
-      { "text": "Government staff for election duties", "correct": true, "info": "Correct!" },
-      { "text": "Municipal funds", "correct": false, "info": "Incorrect." },
-      { "text": "Private vehicles", "correct": false, "info": "Incorrect." },
-      { "text": "No requisition power", "correct": false, "info": "Incorrect." }
+      { "text": "Government staff for election duties", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q76",
     "question": "Under Section 31(2), an election petition must be filed within:",
     "options": [
-      { "text": "30 days of result declaration", "correct": true, "info": "Correct!" },
-      { "text": "60 days", "correct": false, "info": "Incorrect." },
-      { "text": "15 days", "correct": false, "info": "Incorrect." },
-      { "text": "No time limit", "correct": false, "info": "Incorrect." }
+      { "text": "30 days of result declaration", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q77",
     "question": "Section 32(2) states that an appeal to the High Court must be filed within:",
     "options": [
-      { "text": "30 days of District Judge’s order", "correct": true, "info": "Correct!" },
-      { "text": "60 days", "correct": false, "info": "Incorrect." },
-      { "text": "15 days", "correct": false, "info": "Incorrect." },
-      { "text": "No appeal allowed", "correct": false, "info": "Incorrect." }
+      { "text": "30 days of District Judge’s order", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q78",
     "question": "Under Section 33(2), a candidate found guilty of corrupt practice is disqualified for:",
     "options": [
-      { "text": "6 years", "correct": true, "info": "Correct!" },
-      { "text": "3 years", "correct": false, "info": "Incorrect." },
-      { "text": "1 year", "correct": false, "info": "Incorrect." },
-      { "text": "No disqualification", "correct": false, "info": "Incorrect." }
+      { "text": "6 years", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q79",
     "question": "Section 34(2) allows voting secrecy to be waived if:",
     "options": [
-      { "text": "Voter consents in writing", "correct": true, "info": "Correct!" },
-      { "text": "Court orders", "correct": false, "info": "Incorrect." },
-      { "text": "No waiver allowed", "correct": false, "info": "Incorrect." },
-      { "text": "Commission directs", "correct": false, "info": "Incorrect." }
+      { "text": "Voter consents in writing", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q80",
     "question": "Under Section 35(2), election officers must declare any connection with candidates to:",
     "options": [
-      { "text": "State Election Commission", "correct": true, "info": "Correct!" },
-      { "text": "Municipality", "correct": false, "info": "Incorrect." },
-      { "text": "District Collector", "correct": false, "info": "Incorrect." },
-      { "text": "No declaration needed", "correct": false, "info": "Incorrect." }
+      { "text": "State Election Commission", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q81",
     "question": "Section 36(2) prohibits displaying election material within polling station except:",
     "options": [
-      { "text": "Official notices by Returning Officer", "correct": true, "info": "Correct!" },
-      { "text": "Candidate posters", "correct": false, "info": "Incorrect." },
-      { "text": "Party symbols", "correct": false, "info": "Incorrect." },
-      { "text": "Voter lists", "correct": false, "info": "Incorrect." }
+      { "text": "Official notices by Returning Officer", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q82",
     "question": "Under Section 37(2), disorderly conduct includes:",
     "options": [
-      { "text": "Shouting slogans inside polling station", "correct": true, "info": "Correct!" },
-      { "text": "Queuing outside station", "correct": false, "info": "Incorrect." },
-      { "text": "Carrying voter ID", "correct": false, "info": "Incorrect." },
-      { "text": "No specific acts", "correct": false, "info": "Incorrect." }
+      { "text": "Shouting slogans inside polling station", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q83",
     "question": "Section 38(2) penalizes removal of ballot papers with imprisonment up to:",
     "options": [
-      { "text": "1 year or fine or both", "correct": true, "info": "Correct!" },
-      { "text": "2 years", "correct": false, "info": "Incorrect." },
-      { "text": "6 months", "correct": false, "info": "Incorrect." },
-      { "text": "No penalty", "correct": false, "info": "Incorrect." }
+      { "text": "1 year or fine or both", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q84",
     "question": "Under Section 39(2), booth capturing includes:",
     "options": [
-      { "text": "Seizing polling station by force", "correct": true, "info": "Correct!" },
-      { "text": "Distributing pamphlets", "correct": false, "info": "Incorrect." },
-      { "text": "Voter persuasion", "correct": false, "info": "Incorrect." },
-      { "text": "Campaigning legally", "correct": false, "info": "Incorrect." }
+      { "text": "Seizing polling station by force", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q85",
     "question": "Section 40(2) makes it an offence to publish false statements about a candidate, punishable with:",
     "options": [
-      { "text": "Imprisonment up to 6 months or fine", "correct": true, "info": "Correct!" },
-      { "text": "2 years", "correct": false, "info": "Incorrect." },
-      { "text": "No penalty", "correct": false, "info": "Incorrect." },
-      { "text": "Civil suit only", "correct": false, "info": "Incorrect." }
+      { "text": "Imprisonment up to 6 months or fine", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q86",
     "question": "Under Section 41(2), rules made by the State Government must be laid before:",
     "options": [
-      { "text": "State Legislative Assembly", "correct": true, "info": "Correct!" },
-      { "text": "High Court", "correct": false, "info": "Incorrect." },
-      { "text": "Municipal Board", "correct": false, "info": "Incorrect." },
-      { "text": "No requirement", "correct": false, "info": "Incorrect." }
+      { "text": "State Legislative Assembly", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q87",
     "question": "Section 42(2) allows the State Election Commission to fix the date of poll in consultation with:",
     "options": [
-      { "text": "State Government", "correct": true, "info": "Correct!" },
-      { "text": "Municipality", "correct": false, "info": "Incorrect." },
-      { "text": "No consultation needed", "correct": false, "info": "Incorrect." },
-      { "text": "District Collector", "correct": false, "info": "Incorrect." }
+      { "text": "State Government", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q88",
     "question": "Under Section 43(2), the election notification must specify:",
     "options": [
-      { "text": "Date, time, and place of polling", "correct": true, "info": "Correct!" },
-      { "text": "Candidate names", "correct": false, "info": "Incorrect." },
-      { "text": "Voter list", "correct": false, "info": "Incorrect." },
-      { "text": "No specifics required", "correct": false, "info": "Incorrect." }
+      { "text": "Date, time, and place of polling", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q89",
     "question": "Section 44(2) allows the Returning Officer to appoint:",
     "options": [
-      { "text": "Presiding and Polling Officers", "correct": true, "info": "Correct!" },
-      { "text": "Municipal staff", "correct": false, "info": "Incorrect." },
-      { "text": "Voter verifiers", "correct": false, "info": "Incorrect." },
-      { "text": "No appointments", "correct": false, "info": "Incorrect." }
+      { "text": "Presiding and Polling Officers", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q90",
     "question": "Under Section 45(2), polling stations must provide for:",
     "options": [
-      { "text": "Separate compartments for voting", "correct": true, "info": "Correct!" },
-      { "text": "Public viewing", "correct": false, "info": "Incorrect." },
-      { "text": "Candidate campaigns", "correct": false, "info": "Incorrect." },
-      { "text": "No specific provisions", "correct": false, "info": "Incorrect." }
+      { "text": "Separate compartments for voting", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q91",
     "question": "Section 46(2) requires the Electoral Registration Officer to be appointed by:",
     "options": [
-      { "text": "State Election Commission", "correct": true, "info": "Correct!" },
-      { "text": "State Government", "correct": false, "info": "Incorrect." },
-      { "text": "Municipality", "correct": false, "info": "Incorrect." },
-      { "text": "District Collector", "correct": false, "info": "Incorrect." }
+      { "text": "State Election Commission", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q92",
     "question": "Under Section 47(2), objections to the voters list must be filed within:",
     "options": [
-      { "text": "7 days of publication", "correct": true, "info": "Correct!" },
-      { "text": "15 days", "correct": false, "info": "Incorrect." },
-      { "text": "30 days", "correct": false, "info": "Incorrect." },
-      { "text": "No objections allowed", "correct": false, "info": "Incorrect." }
+      { "text": "7 days of publication", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q93",
     "question": "Section 48(3) allows summary revision of electoral roll if directed by:",
     "options": [
-      { "text": "State Election Commission", "correct": true, "info": "Correct!" },
-      { "text": "State Government", "correct": false, "info": "Incorrect." },
-      { "text": "Municipality", "correct": false, "info": "Incorrect." },
-      { "text": "No revision allowed", "correct": false, "info": "Incorrect." }
+      { "text": "State Election Commission", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q94",
     "question": "Under Section 49(2), nomination papers must include:",
     "options": [
-      { "text": "Declaration of no disqualifications", "correct": true, "info": "Correct!" },
-      { "text": "Property details", "correct": false, "info": "Incorrect." },
-      { "text": "Educational qualifications", "correct": false, "info": "Incorrect." },
-      { "text": "No declarations needed", "correct": false, "info": "Incorrect." }
+      { "text": "Declaration of no disqualifications", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q95",
     "question": "Section 50(2) requires withdrawal of candidature to be submitted to:",
     "options": [
-      { "text": "Returning Officer", "correct": true, "info": "Correct!" },
-      { "text": "State Election Commission", "correct": false, "info": "Incorrect." },
-      { "text": "Municipal Chairperson", "correct": false, "info": "Incorrect." },
-      { "text": "District Collector", "correct": false, "info": "Incorrect." }
+      { "text": "Returning Officer", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q96",
     "question": "Under Section 3(3), delimitation of wards must consider:",
     "options": [
-      { "text": "Geographical compactness and population", "correct": true, "info": "Correct!" },
-      { "text": "Economic status only", "correct": false, "info": "Incorrect." },
-      { "text": "No specific criteria", "correct": false, "info": "Incorrect." },
-      { "text": "Political affiliations", "correct": false, "info": "Incorrect." }
+      { "text": "Geographical compactness and population", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q97",
     "question": "Section 4(2) allows exemptions from the Act to be granted by:",
     "options": [
-      { "text": "Notification in official gazette", "correct": true, "info": "Correct!" },
-      { "text": "Municipal resolution", "correct": false, "info": "Incorrect." },
-      { "text": "Court order", "correct": false, "info": "Incorrect." },
-      { "text": "Public referendum", "correct": false, "info": "Incorrect." }
+      { "text": "Notification in official gazette", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q98",
     "question": "Under Section 5(3), alteration of limits requires publication of proposal for:",
     "options": [
-      { "text": "30 days for objections", "correct": true, "info": "Correct!" },
-      { "text": "15 days", "correct": false, "info": "Incorrect." },
-      { "text": "60 days", "correct": false, "info": "Incorrect." },
-      { "text": "No publication needed", "correct": false, "info": "Incorrect." }
+      { "text": "30 days for objections", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q99",
     "question": "Section 6(3) ensures that inclusion of an area does not affect existing:",
     "options": [
-      { "text": "Municipal bye-laws", "correct": true, "info": "Correct!" },
-      { "text": "State laws", "correct": false, "info": "Incorrect." },
-      { "text": "Central laws", "correct": false, "info": "Incorrect." },
-      { "text": "No effect on any laws", "correct": false, "info": "Incorrect." }
+      { "text": "Municipal bye-laws", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q100",
     "question": "Under Section 7(4), the State Government may direct that excluded areas be governed by:",
     "options": [
-      { "text": "Panchayati Raj institutions", "correct": true, "info": "Correct!" },
-      { "text": "Municipal laws", "correct": false, "info": "Incorrect." },
-      { "text": "No governance", "correct": false, "info": "Incorrect." },
-      { "text": "Central Government", "correct": false, "info": "Incorrect." }
+      { "text": "Panchayati Raj institutions", "correct": true, "info": "Correct!" }
     ]
   }
 ]
