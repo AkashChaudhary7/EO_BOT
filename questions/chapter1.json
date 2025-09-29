@@ -1,164 +1,380 @@
 [
-  {
-    "id": "q1",
-    "question": "Which is the capital of Rajasthan?",
-    "options": [
-      { "text": "Jaipur", "correct": true, "info": "Jaipur is the capital city of Rajasthan." },
-      { "text": "Jodhpur", "correct": false, "info": "Jodhpur is the second largest city in Rajasthan." },
-      { "text": "Udaipur", "correct": false, "info": "Udaipur is known as the City of Lakes." }
-    ]
-  },
-  {
-    "id": "q2",
-    "question": "Who wrote the National Anthem of India?",
-    "options": [
-      { "text": "Rabindranath Tagore", "correct": true, "info": "He composed 'Jana Gana Mana'." },
-      { "text": "Bankim Chandra Chatterjee", "correct": false, "info": "He wrote 'Vande Mataram'." },
-      { "text": "Mahatma Gandhi", "correct": false, "info": "Gandhi led the Indian independence movement." }
-    ]
-  },
-  {
-    "id": "q3",
-    "question": "Which river flows through Jaipur?",
-    "options": [
-      { "text": "Banas", "correct": true, "info": "Banas River flows through Jaipur district." },
-      { "text": "Saraswati", "correct": false, "info": "Saraswati is a mythical river." },
-      { "text": "Chambal", "correct": false, "info": "Chambal flows in northern Rajasthan, not Jaipur." }
-    ]
-  },
-  {
-    "id": "q4",
-    "question": "Which desert is located in Rajasthan?",
-    "options": [
-      { "text": "Thar", "correct": true, "info": "Thar Desert covers western Rajasthan." },
-      { "text": "Sahara", "correct": false, "info": "Sahara Desert is in Africa." },
-      { "text": "Kalahari", "correct": false, "info": "Kalahari Desert is in southern Africa." }
-    ]
-  },
-  {
-    "id": "q5",
-    "question": "Which is known as the Pink City?",
-    "options": [
-      { "text": "Jaipur", "correct": true, "info": "Jaipur is called the Pink City due to its pink buildings." },
-      { "text": "Jaisalmer", "correct": false, "info": "Jaisalmer is called Golden City." },
-      { "text": "Udaipur", "correct": false, "info": "Udaipur is called City of Lakes." }
-    ]
-  },
-  {
-    "id": "q6",
-    "question": "Which fort is located in Jodhpur?",
-    "options": [
-      { "text": "Mehrangarh Fort", "correct": true, "info": "Mehrangarh Fort is in Jodhpur." },
-      { "text": "Amber Fort", "correct": false, "info": "Amber Fort is in Jaipur." },
-      { "text": "Chittorgarh Fort", "correct": false, "info": "Chittorgarh Fort is in Chittorgarh." }
-    ]
-  },
-  {
-    "id": "q7",
-    "question": "Which city is known as the City of Lakes?",
-    "options": [
-      { "text": "Udaipur", "correct": true, "info": "Udaipur has many lakes and palaces." },
-      { "text": "Jaipur", "correct": false, "info": "Jaipur is called Pink City." },
-      { "text": "Jaisalmer", "correct": false, "info": "Jaisalmer is called Golden City." }
-    ]
-  },
-  {
-    "id": "q8",
-    "question": "Which wildlife sanctuary is in Rajasthan?",
-    "options": [
-      { "text": "Sariska", "correct": true, "info": "Sariska Tiger Reserve is in Alwar district." },
-      { "text": "Kaziranga", "correct": false, "info": "Kaziranga is in Assam." },
-      { "text": "Jim Corbett", "correct": false, "info": "Jim Corbett is in Uttarakhand." }
-    ]
-  },
-  {
-    "id": "q9",
-    "question": "Which is the largest city of Rajasthan?",
-    "options": [
-      { "text": "Jaipur", "correct": true, "info": "Jaipur is the largest city in Rajasthan by population." },
-      { "text": "Jodhpur", "correct": false, "info": "Jodhpur is the second largest city." },
-      { "text": "Bikaner", "correct": false, "info": "Bikaner is smaller than Jaipur and Jodhpur." }
-    ]
-  },
-  {
-    "id": "q10",
-    "question": "Which festival is famous in Jaipur?",
-    "options": [
-      { "text": "Jaipur Literature Festival", "correct": true, "info": "It is a famous cultural festival in Jaipur." },
-      { "text": "Pushkar Fair", "correct": false, "info": "Pushkar Fair is in Pushkar." },
-      { "text": "Gangaur", "correct": false, "info": "Gangaur is celebrated throughout Rajasthan, not only Jaipur." }
-    ]
-  },
-  {
-    "id": "q11",
-    "question": "Which is the state bird of Rajasthan?",
-    "options": [
-      { "text": "Great Indian Bustard", "correct": true, "info": "The Great Indian Bustard is Rajasthan’s state bird." },
-      { "text": "Peacock", "correct": false, "info": "Peacock is India’s national bird." },
-      { "text": "Sparrow", "correct": false, "info": "Sparrow is common everywhere." }
-    ]
-  },
-  {
-    "id": "q12",
-    "question": "Which mineral is abundant in Rajasthan?",
-    "options": [
-      { "text": "Gypsum", "correct": true, "info": "Rajasthan has large gypsum deposits." },
-      { "text": "Gold", "correct": false, "info": "Gold is not abundant in Rajasthan." },
-      { "text": "Copper", "correct": false, "info": "Copper is limited in Rajasthan." }
-    ]
-  },
-  {
-    "id": "q13",
-    "question": "Which city is known for handicrafts and blue pottery?",
-    "options": [
-      { "text": "Jaipur", "correct": true, "info": "Jaipur is famous for handicrafts and blue pottery." },
-      { "text": "Jaisalmer", "correct": false, "info": "Jaisalmer is famous for sandstone architecture." },
-      { "text": "Udaipur", "correct": false, "info": "Udaipur is famous for lakes and palaces." }
-    ]
-  },
-  {
-    "id": "q14",
-    "question": "Which desert festival is held annually in Rajasthan?",
-    "options": [
-      { "text": "Pushkar Camel Fair", "correct": true, "info": "It is a famous annual desert festival." },
-      { "text": "Jaipur Literature Festival", "correct": false, "info": "This is a literary festival." },
-      { "text": "Mewar Festival", "correct": false, "info": "Celebrated in Udaipur." }
-    ]
-  },
-  {
-    "id": "q15",
-    "question": "Which is the state animal of Rajasthan?",
-    "options": [
-      { "text": "Chinkara", "correct": true, "info": "Chinkara is the state animal of Rajasthan." },
-      { "text": "Tiger", "correct": false, "info": "Tiger is India’s national animal." },
-      { "text": "Elephant", "correct": false, "info": "Elephants are not state animal of Rajasthan." }
-    ]
-  },
-  {
-    "id": "q16",
-    "question": "Which city is famous as Golden City?",
-    "options": [
-      { "text": "Jaisalmer", "correct": true, "info": "Jaisalmer is called Golden City." },
-      { "text": "Jaipur", "correct": false, "info": "Jaipur is called Pink City." },
-      { "text": "Bikaner", "correct": false, "info": "Bikaner is not Golden City." }
-    ]
-  },
-  {
-    "id": "q17",
-    "question": "Which fort is located in Udaipur?",
-    "options": [
-      { "text": "City Palace", "correct": true, "info": "City Palace is a famous fort in Udaipur." },
-      { "text": "Amber Fort", "correct": false, "info": "Amber Fort is in Jaipur." },
-      { "text": "Mehrangarh Fort", "correct": false, "info": "Mehrangarh Fort is in Jodhpur." }
-    ]
-  },
-  {
-    "id": "q18",
-    "question": "Which famous wildlife sanctuary is in Rajasthan?",
-    "options": [
-      { "text": "Ranthambore", "correct": true, "info": "Ranthambore Tiger Reserve is in Sawai Madhopur." },
-      { "text": "Kaziranga", "correct": false, "info": "Kaziranga is in Assam." },
-      { "text": "Gir", "correct": false, "info": "Gir is in Gujarat." }
-    ]
-  },
+    {
+        "id": "q1",
+        "question": "Which is the capital of Rajasthan?",
+        "options": [
+            {
+                "text": "Jaipur",
+                "correct": true,
+                "info": "Jaipur is the capital city of Rajasthan."
+            },
+            {
+                "text": "Jodhpur",
+                "correct": false,
+                "info": "Jodhpur is the second largest city in Rajasthan."
+            },
+            {
+                "text": "Udaipur",
+                "correct": false,
+                "info": "Udaipur is known as the City of Lakes."
+            }
+        ]
+    },
+    {
+        "id": "q2",
+        "question": "Who wrote the National Anthem of India?",
+        "options": [
+            {
+                "text": "Rabindranath Tagore",
+                "correct": true,
+                "info": "He composed 'Jana Gana Mana'."
+            },
+            {
+                "text": "Bankim Chandra Chatterjee",
+                "correct": false,
+                "info": "He wrote 'Vande Mataram'."
+            },
+            {
+                "text": "Mahatma Gandhi",
+                "correct": false,
+                "info": "Gandhi led the Indian independence movement."
+            }
+        ]
+    },
+    {
+        "id": "q3",
+        "question": "Which river flows through Jaipur?",
+        "options": [
+            {
+                "text": "Banas",
+                "correct": true,
+                "info": "Banas River flows through Jaipur district."
+            },
+            {
+                "text": "Saraswati",
+                "correct": false,
+                "info": "Saraswati is a mythical river."
+            },
+            {
+                "text": "Chambal",
+                "correct": false,
+                "info": "Chambal flows in northern Rajasthan, not Jaipur."
+            }
+        ]
+    },
+    {
+        "id": "q4",
+        "question": "Which desert is located in Rajasthan?",
+        "options": [
+            {
+                "text": "Thar",
+                "correct": true,
+                "info": "Thar Desert covers western Rajasthan."
+            },
+            {
+                "text": "Sahara",
+                "correct": false,
+                "info": "Sahara Desert is in Africa."
+            },
+            {
+                "text": "Kalahari",
+                "correct": false,
+                "info": "Kalahari Desert is in southern Africa."
+            }
+        ]
+    },
+    {
+        "id": "q5",
+        "question": "Which is known as the Pink City?",
+        "options": [
+            {
+                "text": "Jaipur",
+                "correct": true,
+                "info": "Jaipur is called the Pink City due to its pink buildings."
+            },
+            {
+                "text": "Jaisalmer",
+                "correct": false,
+                "info": "Jaisalmer is called Golden City."
+            },
+            {
+                "text": "Udaipur",
+                "correct": false,
+                "info": "Udaipur is called City of Lakes."
+            }
+        ]
+    },
+    {
+        "id": "q6",
+        "question": "Which fort is located in Jodhpur?",
+        "options": [
+            {
+                "text": "Mehrangarh Fort",
+                "correct": true,
+                "info": "Mehrangarh Fort is in Jodhpur."
+            },
+            {
+                "text": "Amber Fort",
+                "correct": false,
+                "info": "Amber Fort is in Jaipur."
+            },
+            {
+                "text": "Chittorgarh Fort",
+                "correct": false,
+                "info": "Chittorgarh Fort is in Chittorgarh."
+            }
+        ]
+    },
+    {
+        "id": "q7",
+        "question": "Which city is known as the City of Lakes?",
+        "options": [
+            {
+                "text": "Udaipur",
+                "correct": true,
+                "info": "Udaipur has many lakes and palaces."
+            },
+            {
+                "text": "Jaipur",
+                "correct": false,
+                "info": "Jaipur is called Pink City."
+            },
+            {
+                "text": "Jaisalmer",
+                "correct": false,
+                "info": "Jaisalmer is called Golden City."
+            }
+        ]
+    },
+    {
+        "id": "q8",
+        "question": "Which wildlife sanctuary is in Rajasthan?",
+        "options": [
+            {
+                "text": "Sariska",
+                "correct": true,
+                "info": "Sariska Tiger Reserve is in Alwar district."
+            },
+            {
+                "text": "Kaziranga",
+                "correct": false,
+                "info": "Kaziranga is in Assam."
+            },
+            {
+                "text": "Jim Corbett",
+                "correct": false,
+                "info": "Jim Corbett is in Uttarakhand."
+            }
+        ]
+    },
+    {
+        "id": "q9",
+        "question": "Which is the largest city of Rajasthan?",
+        "options": [
+            {
+                "text": "Jaipur",
+                "correct": true,
+                "info": "Jaipur is the largest city in Rajasthan by population."
+            },
+            {
+                "text": "Jodhpur",
+                "correct": false,
+                "info": "Jodhpur is the second largest city."
+            },
+            {
+                "text": "Bikaner",
+                "correct": false,
+                "info": "Bikaner is smaller than Jaipur and Jodhpur."
+            }
+        ]
+    },
+    {
+        "id": "q10",
+        "question": "Which festival is famous in Jaipur?",
+        "options": [
+            {
+                "text": "Jaipur Literature Festival",
+                "correct": true,
+                "info": "It is a famous cultural festival in Jaipur."
+            },
+            {
+                "text": "Pushkar Fair",
+                "correct": false,
+                "info": "Pushkar Fair is in Pushkar."
+            },
+            {
+                "text": "Gangaur",
+                "correct": false,
+                "info": "Gangaur is celebrated throughout Rajasthan, not only Jaipur."
+            }
+        ]
+    },
+    {
+        "id": "q11",
+        "question": "Which is the state bird of Rajasthan?",
+        "options": [
+            {
+                "text": "Great Indian Bustard",
+                "correct": true,
+                "info": "The Great Indian Bustard is Rajasthan’s state bird."
+            },
+            {
+                "text": "Peacock",
+                "correct": false,
+                "info": "Peacock is India’s national bird."
+            },
+            {
+                "text": "Sparrow",
+                "correct": false,
+                "info": "Sparrow is common everywhere."
+            }
+        ]
+    },
+    {
+        "id": "q12",
+        "question": "Which mineral is abundant in Rajasthan?",
+        "options": [
+            {
+                "text": "Gypsum",
+                "correct": true,
+                "info": "Rajasthan has large gypsum deposits."
+            },
+            {
+                "text": "Gold",
+                "correct": false,
+                "info": "Gold is not abundant in Rajasthan."
+            },
+            {
+                "text": "Copper",
+                "correct": false,
+                "info": "Copper is limited in Rajasthan."
+            }
+        ]
+    },
+    {
+        "id": "q13",
+        "question": "Which city is known for handicrafts and blue pottery?",
+        "options": [
+            {
+                "text": "Jaipur",
+                "correct": true,
+                "info": "Jaipur is famous for handicrafts and blue pottery."
+            },
+            {
+                "text": "Jaisalmer",
+                "correct": false,
+                "info": "Jaisalmer is famous for sandstone architecture."
+            },
+            {
+                "text": "Udaipur",
+                "correct": false,
+                "info": "Udaipur is famous for lakes and palaces."
+            }
+        ]
+    },
+    {
+        "id": "q14",
+        "question": "Which desert festival is held annually in Rajasthan?",
+        "options": [
+            {
+                "text": "Pushkar Camel Fair",
+                "correct": true,
+                "info": "It is a famous annual desert festival."
+            },
+            {
+                "text": "Jaipur Literature Festival",
+                "correct": false,
+                "info": "This is a literary festival."
+            },
+            {
+                "text": "Mewar Festival",
+                "correct": false,
+                "info": "Celebrated in Udaipur."
+            }
+        ]
+    },
+    {
+        "id": "q15",
+        "question": "Which is the state animal of Rajasthan?",
+        "options": [
+            {
+                "text": "Chinkara",
+                "correct": true,
+                "info": "Chinkara is the state animal of Rajasthan."
+            },
+            {
+                "text": "Tiger",
+                "correct": false,
+                "info": "Tiger is India’s national animal."
+            },
+            {
+                "text": "Elephant",
+                "correct": false,
+                "info": "Elephants are not state animal of Rajasthan."
+            }
+        ]
+    },
+    {
+        "id": "q16",
+        "question": "Which city is famous as Golden City?",
+        "options": [
+            {
+                "text": "Jaisalmer",
+                "correct": true,
+                "info": "Jaisalmer is called Golden City."
+            },
+            {
+                "text": "Jaipur",
+                "correct": false,
+                "info": "Jaipur is called Pink City."
+            },
+            {
+                "text": "Bikaner",
+                "correct": false,
+                "info": "Bikaner is not Golden City."
+            }
+        ]
+    },
+    {
+        "id": "q17",
+        "question": "Which fort is located in Udaipur?",
+        "options": [
+            {
+                "text": "City Palace",
+                "correct": true,
+                "info": "City Palace is a famous fort in Udaipur."
+            },
+            {
+                "text": "Amber Fort",
+                "correct": false,
+                "info": "Amber Fort is in Jaipur."
+            },
+            {
+                "text": "Mehrangarh Fort",
+                "correct": false,
+                "info": "Mehrangarh Fort is in Jodhpur."
+            }
+        ]
+    },
+    {
+        "id": "q18",
+        "question": "Which famous wildlife sanctuary is in Rajasthan?",
+        "options": [
+            {
+                "text": "Ranthambore",
+                "correct": true,
+                "info": "Ranthambore Tiger Reserve is in Sawai Madhopur."
+            },
+            {
+                "text": "Kaziranga",
+                "correct": false,
+                "info": "Kaziranga is in Assam."
+            },
+            {
+                "text": "Gir",
+                "correct": false,
+                "info": "Gir is in Gujarat."
+            }
+        ]
+    }
 ]
