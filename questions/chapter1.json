@@ -27,3 +27,32 @@
     ]
   }
 ]
+[
+  {
+    "id": "q4",
+    "question": "Which is the capital of Rajasthan?",
+    "options": [
+      { "text": "Jaipur", "correct": true, "info": "Jaipur is the capital city of Rajasthan." },
+      { "text": "Jodhpur", "correct": false, "info": "Jodhpur is the second largest city in Rajasthan." },
+      { "text": "Udaipur", "correct": false, "info": "Udaipur is known as the City of Lakes." }
+    ]
+  },
+  {
+    "id": "q5",
+    "question": "Who wrote the National Anthem of India?",
+    "options": [
+      { "text": "Rabindranath Tagore", "correct": true, "info": "He composed 'Jana Gana Mana'." },
+      { "text": "Bankim Chandra Chatterjee", "correct": false, "info": "He wrote 'Vande Mataram'." },
+      { "text": "Mahatma Gandhi", "correct": false, "info": "Gandhi led the Indian independence movement." }
+    ]
+  },
+  {
+    "id": "q6",
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      { "text": "Mars", "correct": true, "info": "Mars is called the Red Planet due to iron oxide." },
+      { "text": "Venus", "correct": false, "info": "Venus is known as Earth's twin." },
+      { "text": "Jupiter", "correct": false, "info": "Jupiter is the largest planet in the Solar System." }
+    ]
+  }
+]
