@@ -1,13 +1,29 @@
 [
   {
-    "id": 1,
-    "question": "Rajasthan Municipality Act was passed in which year?",
+    "id": "q1",
+    "question": "Which is the capital of Rajasthan?",
     "options": [
-      { "text": "2007", "correct": false, "explanation": "Not 2007." },
-      { "text": "2009", "correct": true, "explanation": "Correct: passed in 2009." },
-      { "text": "2010", "correct": false, "explanation": "Not 2010." },
-      { "text": "2011", "correct": false, "explanation": "Not 2011." }
+      { "text": "Jaipur", "correct": true, "info": "Jaipur is the capital city of Rajasthan." },
+      { "text": "Jodhpur", "correct": false, "info": "Jodhpur is the second largest city in Rajasthan." },
+      { "text": "Udaipur", "correct": false, "info": "Udaipur is known as the City of Lakes." }
+    ]
+  },
+  {
+    "id": "q2",
+    "question": "Who wrote the National Anthem of India?",
+    "options": [
+      { "text": "Rabindranath Tagore", "correct": true, "info": "He composed 'Jana Gana Mana'." },
+      { "text": "Bankim Chandra Chatterjee", "correct": false, "info": "He wrote 'Vande Mataram'." },
+      { "text": "Mahatma Gandhi", "correct": false, "info": "Gandhi led the Indian independence movement." }
+    ]
+  },
+  {
+    "id": "q3",
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      { "text": "Mars", "correct": true, "info": "Mars is called the Red Planet due to iron oxide." },
+      { "text": "Venus", "correct": false, "info": "Venus is known as Earth's twin." },
+      { "text": "Jupiter", "correct": false, "info": "Jupiter is the largest planet in the Solar System." }
     ]
   }
 ]
-
