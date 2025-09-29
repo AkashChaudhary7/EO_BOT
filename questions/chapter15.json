@@ -3,500 +3,350 @@
     "id": "q1",
     "question": "Under Section 309 of the Rajasthan Municipalities Act, 2009, the State Government may delegate its powers to:",
     "options": [
-      { "text": "Any officer or authority", "correct": true, "info": "Correct! Section 309 allows delegation." },
-      { "text": "The Municipal Commissioner only", "correct": false, "info": "Incorrect." },
-      { "text": "The District Collector only", "correct": false, "info": "Incorrect." },
-      { "text": "No delegation allowed", "correct": false, "info": "Incorrect." }
+      { "text": "Any officer or authority", "correct": true, "info": "Correct! Section 309 allows delegation." }
     ]
   },
   {
     "id": "q2",
     "question": "Section 309(2) requires delegated powers to be exercised in accordance with:",
     "options": [
-      { "text": "Rules made under the Act", "correct": true, "info": "Correct!" },
-      { "text": "Municipal bye-laws", "correct": false, "info": "Incorrect." },
-      { "text": "Public opinion", "correct": false, "info": "Incorrect." },
-      { "text": "No specific rules", "correct": false, "info": "Incorrect." }
+      { "text": "Rules made under the Act", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q3",
     "question": "Under Section 310, the State Government may issue guidelines for:",
     "options": [
-      { "text": "Municipal administration", "correct": true, "info": "Correct! General guidelines." },
-      { "text": "Election procedures", "correct": false, "info": "Incorrect." },
-      { "text": "Judicial processes", "correct": false, "info": "Incorrect." },
-      { "text": "No guidelines allowed", "correct": false, "info": "Incorrect." }
+      { "text": "Municipal administration", "correct": true, "info": "Correct! General guidelines." }
     ]
   },
   {
     "id": "q4",
     "question": "Section 311 allows the State Government to remove difficulties in implementing the Act by:",
     "options": [
-      { "text": "Issuing orders not inconsistent with the Act", "correct": true, "info": "Correct!" },
-      { "text": "Amending the Act", "correct": false, "info": "Incorrect." },
-      { "text": "Dissolving municipalities", "correct": false, "info": "Incorrect." },
-      { "text": "No removal of difficulties", "correct": false, "info": "Incorrect." }
+      { "text": "Issuing orders not inconsistent with the Act", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q5",
     "question": "Under Section 311(2), orders to remove difficulties must be laid before:",
     "options": [
-      { "text": "The State Legislative Assembly", "correct": true, "info": "Correct!" },
-      { "text": "The High Court", "correct": false, "info": "Incorrect." },
-      { "text": "The municipality", "correct": false, "info": "Incorrect." },
-      { "text": "No laying required", "correct": false, "info": "Incorrect." }
+      { "text": "The State Legislative Assembly", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q6",
     "question": "Section 312 provides for the protection of actions taken in good faith under:",
     "options": [
-      { "text": "The entire Act", "correct": true, "info": "Correct!" },
-      { "text": "Only election provisions", "correct": false, "info": "Incorrect." },
-      { "text": "Only financial provisions", "correct": false, "info": "Incorrect." },
-      { "text": "No protection provided", "correct": false, "info": "Incorrect." }
+      { "text": "The entire Act", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q7",
     "question": "Under Section 313, the State Government may prescribe the manner of:",
     "options": [
-      { "text": "Publication of notifications", "correct": true, "info": "Correct!" },
-      { "text": "Election scheduling", "correct": false, "info": "Incorrect." },
-      { "text": "Municipal meetings", "correct": false, "info": "Incorrect." },
-      { "text": "No prescription allowed", "correct": false, "info": "Incorrect." }
+      { "text": "Publication of notifications", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q8",
     "question": "Section 314 requires municipalities to maintain records of notifications in:",
     "options": [
-      { "text": "A prescribed register", "correct": true, "info": "Correct!" },
-      { "text": "Local newspapers", "correct": false, "info": "Incorrect." },
-      { "text": "The Municipal Fund", "correct": false, "info": "Incorrect." },
-      { "text": "No records required", "correct": false, "info": "Incorrect." }
+      { "text": "A prescribed register", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q9",
     "question": "Under Section 315, the State Government may appoint a Director of Local Bodies to:",
     "options": [
-      { "text": "Oversee municipal functions", "correct": true, "info": "Correct!" },
-      { "text": "Conduct elections", "correct": false, "info": "Incorrect." },
-      { "text": "Frame bye-laws", "correct": false, "info": "Incorrect." },
-      { "text": "No such appointment", "correct": false, "info": "Incorrect." }
+      { "text": "Oversee municipal functions", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q10",
     "question": "Section 316 allows the State Government to make rules for:",
     "options": [
-      { "text": "All matters under the Act", "correct": true, "info": "Correct!" },
-      { "text": "Only taxation", "correct": false, "info": "Incorrect." },
-      { "text": "Only elections", "correct": false, "info": "Incorrect." },
-      { "text": "No rule-making power", "correct": false, "info": "Incorrect." }
+      { "text": "All matters under the Act", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q11",
     "question": "Under Section 316(2), rules made under Section 316 must be published in:",
     "options": [
-      { "text": "The Official Gazette", "correct": true, "info": "Correct!" },
-      { "text": "Local newspapers", "correct": false, "info": "Incorrect." },
-      { "text": "Municipal website", "correct": false, "info": "Incorrect." },
-      { "text": "No publication required", "correct": false, "info": "Incorrect." }
+      { "text": "The Official Gazette", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q12",
     "question": "Section 317 provides for the continuation of existing municipalities until:",
     "options": [
-      { "text": "New municipalities are constituted", "correct": true, "info": "Correct! Transitional provision." },
-      { "text": "The Act is repealed", "correct": false, "info": "Incorrect." },
-      { "text": "The State Government dissolves them", "correct": false, "info": "Incorrect." },
-      { "text": "No continuation allowed", "correct": false, "info": "Incorrect." }
+      { "text": "New municipalities are constituted", "correct": true, "info": "Correct! Transitional provision." }
     ]
   },
   {
     "id": "q13",
     "question": "Under Section 318, existing bye-laws remain in force until:",
     "options": [
-      { "text": "New bye-laws are framed", "correct": true, "info": "Correct!" },
-      { "text": "The Act is repealed", "correct": false, "info": "Incorrect." },
-      { "text": "The municipality is dissolved", "correct": false, "info": "Incorrect." },
-      { "text": "No continuation allowed", "correct": false, "info": "Incorrect." }
+      { "text": "New bye-laws are framed", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q14",
     "question": "Section 319 allows the State Government to validate actions taken under the repealed Act if:",
     "options": [
-      { "text": "They are consistent with the new Act", "correct": true, "info": "Correct!" },
-      { "text": "They are approved by the public", "correct": false, "info": "Incorrect." },
-      { "text": "They involve taxation", "correct": false, "info": "Incorrect." },
-      { "text": "No validation allowed", "correct": false, "info": "Incorrect." }
+      { "text": "They are consistent with the new Act", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q15",
     "question": "Under Section 320, the repeal of the previous Act does not affect:",
     "options": [
-      { "text": "Rights and liabilities accrued", "correct": true, "info": "Correct!" },
-      { "text": "Only election results", "correct": false, "info": "Incorrect." },
-      { "text": "Only financial transactions", "correct": false, "info": "Incorrect." },
-      { "text": "All actions voided", "correct": false, "info": "Incorrect." }
+      { "text": "Rights and liabilities accrued", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q16",
     "question": "Section 321 requires municipalities to maintain a register of:",
     "options": [
-      { "text": "All assets and liabilities", "correct": true, "info": "Correct!" },
-      { "text": "Only voter lists", "correct": false, "info": "Incorrect." },
-      { "text": "Only staff details", "correct": false, "info": "Incorrect." },
-      { "text": "No register required", "correct": false, "info": "Incorrect." }
+      { "text": "All assets and liabilities", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q17",
     "question": "Under Section 322, the State Government may exempt certain areas from the Act for:",
     "options": [
-      { "text": "Special reasons by notification", "correct": true, "info": "Correct!" },
-      { "text": "Public demand only", "correct": false, "info": "Incorrect." },
-      { "text": "Financial reasons only", "correct": false, "info": "Incorrect." },
-      { "text": "No exemptions allowed", "correct": false, "info": "Incorrect." }
+      { "text": "Special reasons by notification", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q18",
     "question": "Section 323 allows the State Government to appoint a committee to:",
     "options": [
-      { "text": "Review municipal performance", "correct": true, "info": "Correct!" },
-      { "text": "Conduct elections", "correct": false, "info": "Incorrect." },
-      { "text": "Frame bye-laws", "correct": false, "info": "Incorrect." },
-      { "text": "No committee appointment", "correct": false, "info": "Incorrect." }
+      { "text": "Review municipal performance", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q19",
     "question": "Under Section 324, the State Government may prescribe penalties for breach of rules up to:",
     "options": [
-      { "text": "As specified in the rules", "correct": true, "info": "Correct!" },
-      { "text": "Rs. 5,000", "correct": false, "info": "Incorrect." },
-      { "text": "Rs. 10,000", "correct": false, "info": "Incorrect." },
-      { "text": "No penalties", "correct": false, "info": "Incorrect." }
+      { "text": "As specified in the rules", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q20",
     "question": "Section 325 requires municipalities to publish an annual performance report in:",
     "options": [
-      { "text": "The Official Gazette or as prescribed", "correct": true, "info": "Correct!" },
-      { "text": "Local newspapers only", "correct": false, "info": "Incorrect." },
-      { "text": "Municipal website only", "correct": false, "info": "Incorrect." },
-      { "text": "No publication required", "correct": false, "info": "Incorrect." }
+      { "text": "The Official Gazette or as prescribed", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q21",
     "question": "Under Section 326, the State Government may inspect municipal offices at least:",
     "options": [
-      { "text": "Once a year", "correct": true, "info": "Correct!" },
-      { "text": "Every six months", "correct": false, "info": "Incorrect." },
-      { "text": "Every two years", "correct": false, "info": "Incorrect." },
-      { "text": "No inspection required", "correct": false, "info": "Incorrect." }
+      { "text": "Once a year", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q22",
     "question": "Section 327 allows the State Government to make transitional provisions for:",
     "options": [
-      { "text": "Implementation of the Act", "correct": true, "info": "Correct!" },
-      { "text": "Only elections", "correct": false, "info": "Incorrect." },
-      { "text": "Only taxation", "correct": false, "info": "Incorrect." },
-      { "text": "No provisions allowed", "correct": false, "info": "Incorrect." }
+      { "text": "Implementation of the Act", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q23",
     "question": "Under Section 309(3), delegation of powers must be published in:",
     "options": [
-      { "text": "The Official Gazette", "correct": true, "info": "Correct!" },
-      { "text": "Local newspapers", "correct": false, "info": "Incorrect." },
-      { "text": "Municipal website", "correct": false, "info": "Incorrect." },
-      { "text": "No publication required", "correct": false, "info": "Incorrect." }
+      { "text": "The Official Gazette", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q24",
     "question": "Section 310(2) requires guidelines to be consistent with:",
     "options": [
-      { "text": "The provisions of the Act", "correct": true, "info": "Correct!" },
-      { "text": "Municipal bye-laws", "correct": false, "info": "Incorrect." },
-      { "text": "Public opinion", "correct": false, "info": "Incorrect." },
-      { "text": "No consistency required", "correct": false, "info": "Incorrect." }
+      { "text": "The provisions of the Act", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q25",
     "question": "Under Section 311(3), orders to remove difficulties are valid for:",
     "options": [
-      { "text": "Two years from issuance", "correct": true, "info": "Correct!" },
-      { "text": "One year", "correct": false, "info": "Incorrect." },
-      { "text": "Indefinitely", "correct": false, "info": "Incorrect." },
-      { "text": "No validity period", "correct": false, "info": "Incorrect." }
+      { "text": "Two years from issuance", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q26",
     "question": "Section 312(2) does not protect actions taken with:",
     "options": [
-      { "text": "Malice or bad faith", "correct": true, "info": "Correct!" },
-      { "text": "Public approval", "correct": false, "info": "Incorrect." },
-      { "text": "State Government sanction", "correct": false, "info": "Incorrect." },
-      { "text": "All actions protected", "correct": false, "info": "Incorrect." }
+      { "text": "Malice or bad faith", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q27",
     "question": "Under Section 313(2), notifications must be accessible to:",
     "options": [
-      { "text": "The public", "correct": true, "info": "Correct!" },
-      { "text": "Only Councillors", "correct": false, "info": "Incorrect." },
-      { "text": "Only the State Government", "correct": false, "info": "Incorrect." },
-      { "text": "No access required", "correct": false, "info": "Incorrect." }
+      { "text": "The public", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q28",
     "question": "Section 314(2) requires the register of notifications to be open for inspection by:",
     "options": [
-      { "text": "Any person on payment of a fee", "correct": true, "info": "Correct!" },
-      { "text": "Only Councillors", "correct": false, "info": "Incorrect." },
-      { "text": "Only the State Government", "correct": false, "info": "Incorrect." },
-      { "text": "No inspection allowed", "correct": false, "info": "Incorrect." }
+      { "text": "Any person on payment of a fee", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q29",
     "question": "Under Section 315(2), the Director of Local Bodies reports to:",
     "options": [
-      { "text": "The State Government", "correct": true, "info": "Correct!" },
-      { "text": "The municipality", "correct": false, "info": "Incorrect." },
-      { "text": "The District Collector", "correct": false, "info": "Incorrect." },
-      { "text": "No reporting required", "correct": false, "info": "Incorrect." }
+      { "text": "The State Government", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q30",
     "question": "Section 316(3) allows rules to be retrospective if:",
     "options": [
-      { "text": "They do not prejudice rights", "correct": true, "info": "Correct!" },
-      { "text": "They are approved by the public", "correct": false, "info": "Incorrect." },
-      { "text": "They involve taxation", "correct": false, "info": "Incorrect." },
-      { "text": "No retrospective rules", "correct": false, "info": "Incorrect." }
+      { "text": "They do not prejudice rights", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q31",
     "question": "Under Section 317(2), existing municipalities continue their functions as per:",
     "options": [
-      { "text": "The new Act", "correct": true, "info": "Correct!" },
-      { "text": "The repealed Act", "correct": false, "info": "Incorrect." },
-      { "text": "Municipal bye-laws", "correct": false, "info": "Incorrect." },
-      { "text": "No continuation", "correct": false, "info": "Incorrect." }
+      { "text": "The new Act", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q32",
     "question": "Section 318(2) allows existing bye-laws to be amended by:",
     "options": [
-      { "text": "The municipality under the new Act", "correct": true, "info": "Correct!" },
-      { "text": "The State Government only", "correct": false, "info": "Incorrect." },
-      { "text": "The public", "correct": false, "info": "Incorrect." },
-      { "text": "No amendments allowed", "correct": false, "info": "Incorrect." }
+      { "text": "The municipality under the new Act", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q33",
     "question": "Under Section 319(2), validation of actions requires:",
     "options": [
-      { "text": "Notification in the Official Gazette", "correct": true, "info": "Correct!" },
-      { "text": "Public approval", "correct": false, "info": "Incorrect." },
-      { "text": "Municipal resolution", "correct": false, "info": "Incorrect." },
-      { "text": "No notification required", "correct": false, "info": "Incorrect." }
+      { "text": "Notification in the Official Gazette", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q34",
     "question": "Section 320(2) ensures that legal proceedings under the repealed Act:",
     "options": [
-      { "text": "Continue under the new Act", "correct": true, "info": "Correct!" },
-      { "text": "Are voided", "correct": false, "info": "Incorrect." },
-      { "text": "Require court approval", "correct": false, "info": "Incorrect." },
-      { "text": "No continuation", "correct": false, "info": "Incorrect." }
+      { "text": "Continue under the new Act", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q35",
     "question": "Under Section 321(2), the register of assets and liabilities is audited by:",
     "options": [
-      { "text": "An auditor appointed by the State Government", "correct": true, "info": "Correct!" },
-      { "text": "The Municipal Commissioner", "correct": false, "info": "Incorrect." },
-      { "text": "A private firm", "correct": false, "info": "Incorrect." },
-      { "text": "No audit required", "correct": false, "info": "Incorrect." }
+      { "text": "An auditor appointed by the State Government", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q36",
     "question": "Section 322(2) requires exemptions to be reviewed every:",
     "options": [
-      { "text": "Five years", "correct": true, "info": "Correct!" },
-      { "text": "One year", "correct": false, "info": "Incorrect." },
-      { "text": "Ten years", "correct": false, "info": "Incorrect." },
-      { "text": "No review required", "correct": false, "info": "Incorrect." }
+      { "text": "Five years", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q37",
     "question": "Under Section 323(2), the committee for municipal performance review submits its report to:",
     "options": [
-      { "text": "The State Government", "correct": true, "info": "Correct!" },
-      { "text": "The municipality", "correct": false, "info": "Incorrect." },
-      { "text": "The public", "correct": false, "info": "Incorrect." },
-      { "text": "No reporting required", "correct": false, "info": "Incorrect." }
+      { "text": "The State Government", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q38",
     "question": "Section 324(2) allows penalties for rule breaches to include:",
     "options": [
-      { "text": "Imprisonment up to six months or fine", "correct": true, "info": "Correct!" },
-      { "text": "Only fines", "correct": false, "info": "Incorrect." },
-      { "text": "Only imprisonment", "correct": false, "info": "Incorrect." },
-      { "text": "No penalties", "correct": false, "info": "Incorrect." }
+      { "text": "Imprisonment up to six months or fine", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q39",
     "question": "Under Section 325(2), the annual performance report must include:",
     "options": [
-      { "text": "Details of municipal activities and finances", "correct": true, "info": "Correct!" },
-      { "text": "Only election results", "correct": false, "info": "Incorrect." },
-      { "text": "Only staff details", "correct": false, "info": "Incorrect." },
-      { "text": "No specific details", "correct": false, "info": "Incorrect." }
+      { "text": "Details of municipal activities and finances", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q40",
     "question": "Section 326(2) requires inspection reports to be submitted to:",
     "options": [
-      { "text": "The State Government", "correct": true, "info": "Correct!" },
-      { "text": "The municipality", "correct": false, "info": "Incorrect." },
-      { "text": "The public", "correct": false, "info": "Incorrect." },
-      { "text": "No submission required", "correct": false, "info": "Incorrect." }
+      { "text": "The State Government", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q41",
     "question": "Under Section 327(2), transitional provisions must be published in:",
     "options": [
-      { "text": "The Official Gazette", "correct": true, "info": "Correct!" },
-      { "text": "Local newspapers", "correct": false, "info": "Incorrect." },
-      { "text": "Municipal website", "correct": false, "info": "Incorrect." },
-      { "text": "No publication required", "correct": false, "info": "Incorrect." }
+      { "text": "The Official Gazette", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q42",
     "question": "Section 309(4) prohibits delegation of powers related to:",
     "options": [
-      { "text": "Dissolution of municipalities", "correct": true, "info": "Correct!" },
-      { "text": "Administrative decisions", "correct": false, "info": "Incorrect." },
-      { "text": "Financial approvals", "correct": false, "info": "Incorrect." },
-      { "text": "All powers delegable", "correct": false, "info": "Incorrect." }
+      { "text": "Dissolution of municipalities", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q43",
     "question": "Under Section 310(3), guidelines issued must be binding on:",
     "options": [
-      { "text": "All municipalities", "correct": true, "info": "Correct!" },
-      { "text": "Only elected Councillors", "correct": false, "info": "Incorrect." },
-      { "text": "Only the Municipal Commissioner", "correct": false, "info": "Incorrect." },
-      { "text": "Not binding", "correct": false, "info": "Incorrect." }
+      { "text": "All municipalities", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q44",
     "question": "Section 311(4) limits orders to remove difficulties to those that:",
     "options": [
-      { "text": "Do not amend the Act", "correct": true, "info": "Correct!" },
-      { "text": "Amend the Act", "correct": false, "info": "Incorrect." },
-      { "text": "Dissolve municipalities", "correct": false, "info": "Incorrect." },
-      { "text": "No limitations", "correct": false, "info": "Incorrect." }
+      { "text": "Do not amend the Act", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q45",
     "question": "Under Section 312(3), protection for good faith actions extends to:",
     "options": [
-      { "text": "All officers under the Act", "correct": true, "info": "Correct!" },
-      { "text": "Only elected Councillors", "correct": false, "info": "Incorrect." },
-      { "text": "Only the Municipal Commissioner", "correct": false, "info": "Incorrect." },
-      { "text": "No protection", "correct": false, "info": "Incorrect." }
+      { "text": "All officers under the Act", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q46",
     "question": "Section 313(3) requires notifications to be issued in:",
     "options": [
-      { "text": "At least two languages", "correct": true, "info": "Correct!" },
-      { "text": "Only Hindi", "correct": false, "info": "Incorrect." },
-      { "text": "Only English", "correct": false, "info": "Incorrect." },
-      { "text": "No language requirement", "correct": false, "info": "Incorrect." }
+      { "text": "At least two languages", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q47",
     "question": "Under Section 314(3), copies of the notification register can be obtained by:",
     "options": [
-      { "text": "Any person on payment of a fee", "correct": true, "info": "Correct!" },
-      { "text": "Only Councillors", "correct": false, "info": "Incorrect." },
-      { "text": "Only the State Government", "correct": false, "info": "Incorrect." },
-      { "text": "No copies allowed", "correct": false, "info": "Incorrect." }
+      { "text": "Any person on payment of a fee", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q48",
     "question": "Section 315(3) allows the Director of Local Bodies to issue directions to municipalities for:",
     "options": [
-      { "text": "Compliance with the Act", "correct": true, "info": "Correct!" },
-      { "text": "Election scheduling", "correct": false, "info": "Incorrect." },
-      { "text": "Staff appointments", "correct": false, "info": "Incorrect." },
-      { "text": "No directions allowed", "correct": false, "info": "Incorrect." }
+      { "text": "Compliance with the Act", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q49",
     "question": "Under Section 316(4), rules made must be laid before the State Legislative Assembly within:",
     "options": [
-      { "text": "30 days of publication", "correct": true, "info": "Correct!" },
-      { "text": "60 days", "correct": false, "info": "Incorrect." },
-      { "text": "15 days", "correct": false, "info": "Incorrect." },
-      { "text": "No laying required", "correct": false, "info": "Incorrect." }
+      { "text": "30 days of publication", "correct": true, "info": "Correct!" }
     ]
   },
   {
     "id": "q50",
     "question": "Section 327(3) ensures that transitional provisions do not affect:",
     "options": [
-      { "text": "Existing rights and obligations", "correct": true, "info": "Correct!" },
-      { "text": "Only election results", "correct": false, "info": "Incorrect." },
-      { "text": "Only financial transactions", "correct": false, "info": "Incorrect." },
-      { "text": "All provisions voided", "correct": false, "info": "Incorrect." }
+      { "text": "Existing rights and obligations", "correct": true, "info": "Correct!" }
     ]
   }
 ]
